@@ -1,0 +1,1029 @@
+[
+  {
+    "itemId": "syn-shuddh-kalyan-41180384c4",
+    "language": "Roman",
+    "poem": "silence opens like a clear river. as evening gathers at the threshold.\npeace remains when every name dissolves; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "shuddh-kalyan",
+      "marwa",
+      "bhupali",
+      "malkauns",
+      "alhaiya-bilawal"
+    ],
+    "referenceSeed": [
+      "shuddh-kalyan",
+      "ahir-bhairav",
+      "purvi"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-todi-3bfb46a10b",
+    "language": "Hindi",
+    "poem": "दर्द पगचिह्न मिटने के बाद भी ठहरा है. प्रभात की पहली रोशनी में.\nस्मृति आँखों में सावन बनकर लौटती है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "todi",
+      "asavari",
+      "bhairavi",
+      "alhaiya-bilawal",
+      "bhairav"
+    ],
+    "referenceSeed": [
+      "todi",
+      "bhairavi",
+      "asavari"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-chhayanat-61e507d368",
+    "language": "Urdu",
+    "poem": "خاموشی صاف دریا کی طرح کھلتی ہے. گہری سنتی ہوئی رات میں.\nہر نام مٹ جائے تو امن باقی رہتا ہے; مکھڑا اپنے ٹھہراؤ کے لفظ پر لوٹتا ہے.",
+    "systemCandidates": [
+      "darbari-kanada",
+      "malkauns",
+      "chhayanat",
+      "alhaiya-bilawal",
+      "shuddh-kalyan"
+    ],
+    "referenceSeed": [
+      "chhayanat",
+      "durga",
+      "alhaiya-bilawal"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-bageshree-35896cafa8",
+    "language": "Urdu",
+    "poem": "نقش مٹ گئے مگر درد باقی رہا. گہری سنتی ہوئی رات میں.\nیاد آنکھوں میں ساون بن کر لوٹتی ہے; مکھڑا اپنے ٹھہراؤ کے لفظ پر لوٹتا ہے.",
+    "systemCandidates": [
+      "jayjaywanti",
+      "bageshree",
+      "shivaranjani",
+      "durga",
+      "marwa"
+    ],
+    "referenceSeed": [
+      "bageshree",
+      "jayjaywanti",
+      "bhairavi"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-bhairavi-773b1699fe",
+    "language": "Punjabi",
+    "poem": "ਪੈਰਾਂ ਦੇ ਨਿਸ਼ਾਨ ਮਿਟੇ ਪਰ ਦਰਦ ਰਹਿ ਗਿਆ. ਸਵੇਰ ਦੀ ਪਹਿਲੀ ਲੋਅ ਵਿੱਚ.\nਯਾਦ ਅੱਖਾਂ ਵਿੱਚ ਸਾਵਣ ਬਣ ਕੇ ਮੁੜਦੀ ਹੈ; ਛੋਟਾ ਚੱਕਰ ਕੋਮਲ ਮੋੜ ਲੈ ਜਾਂਦਾ ਹੈ.",
+    "systemCandidates": [
+      "bhairavi",
+      "khamaj",
+      "todi",
+      "asavari",
+      "pilu"
+    ],
+    "referenceSeed": [
+      "bhairavi",
+      "todi",
+      "bageshree"
+    ],
+    "systemTaalCandidates": [
+      "Dadra",
+      "Ektaal",
+      "Teentaal",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-pilu-bfbbcde20d",
+    "language": "Hindi",
+    "poem": "दर्द पगचिह्न मिटने के बाद भी ठहरा है. घड़ी और ऋतु की सीमा से परे.\nस्मृति आँखों में सावन बनकर लौटती है; हर पंक्ति एक निजी घाव सँभालती है.",
+    "systemCandidates": [
+      "pilu",
+      "shivaranjani",
+      "bhairavi",
+      "marwa",
+      "bhimpalasi"
+    ],
+    "referenceSeed": [
+      "pilu",
+      "kafi",
+      "tilak-kamod"
+    ],
+    "systemTaalCandidates": [
+      "Dadra",
+      "Ektaal",
+      "Teentaal",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-alhaiya-bilawal-ea85c33588",
+    "language": "Punjabi",
+    "poem": "ਚੁੱਪ ਨਿਰਮਲ ਦਰਿਆ ਵਾਂਗ ਖੁਲਦੀ ਹੈ. ਸਵੇਰ ਦੀ ਪਹਿਲੀ ਲੋਅ ਵਿੱਚ.\nਹਰ ਨਾਮ ਮਿਟੇ ਤਾਂ ਸਕੂਨ ਰਹਿ ਜਾਂਦਾ ਹੈ; ਮੁਖੜਾ ਆਪਣੇ ਠਹਿਰਾਉ ਵਾਲੇ ਬੋਲ ਵੱਲ ਮੁੜਦਾ ਹੈ.",
+    "systemCandidates": [
+      "alhaiya-bilawal",
+      "todi",
+      "asavari",
+      "darbari-kanada",
+      "malkauns"
+    ],
+    "referenceSeed": [
+      "alhaiya-bilawal",
+      "durga",
+      "bhupali"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-shuddh-kalyan-8d289c16c6",
+    "language": "Hindi",
+    "poem": "मौन निर्मल नदी की तरह खुलता है. जब संध्या देहरी पर उतरती है.\nहर नाम मिटने पर शांति शेष रहती है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "shuddh-kalyan",
+      "marwa",
+      "bhupali",
+      "yaman",
+      "purvi"
+    ],
+    "referenceSeed": [
+      "shuddh-kalyan",
+      "ahir-bhairav",
+      "purvi"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-bhairav-254b3372b4",
+    "language": "Urdu",
+    "poem": "طالب مقدس نام کو سانسوں میں دہراتا ہے. صبح کی پہلی روشنی میں.\nخودی ان دیکھے حق کے آگے جھکتی ہے; مکھڑا اپنے ٹھہراؤ کے لفظ پر لوٹتا ہے.",
+    "systemCandidates": [
+      "bhairav",
+      "ahir-bhairav",
+      "durga",
+      "bhupali",
+      "yaman"
+    ],
+    "referenceSeed": [
+      "bhairav",
+      "ahir-bhairav",
+      "purvi"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Keharwa",
+      "Dadra"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-gaud-sarang-802c285d08",
+    "language": "Roman",
+    "poem": "silence opens like a clear river. under the still afternoon sun.\npeace remains when every name dissolves; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "gaud-sarang",
+      "shuddha-sarang",
+      "bhimpalasi",
+      "malkauns",
+      "shuddh-kalyan"
+    ],
+    "referenceSeed": [
+      "gaud-sarang",
+      "shuddha-sarang",
+      "alhaiya-bilawal"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-marwa-f36e77e83e",
+    "language": "Urdu",
+    "poem": "نقش مٹ گئے مگر درد باقی رہا. جب شام دہلیز پر اترتی ہے.\nیاد آنکھوں میں ساون بن کر لوٹتی ہے; مکھڑا اپنے ٹھہراؤ کے لفظ پر لوٹتا ہے.",
+    "systemCandidates": [
+      "marwa",
+      "shuddh-kalyan",
+      "bhupali",
+      "yaman",
+      "purvi"
+    ],
+    "referenceSeed": [
+      "marwa",
+      "purvi",
+      "todi"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-pilu-7c51a22a91",
+    "language": "Roman",
+    "poem": "dard remains after the footsteps fade. beyond the boundary of clock and season.\nmemory returns with rain in the eyes; each line keeps a private wound.",
+    "systemCandidates": [
+      "pilu",
+      "shivaranjani",
+      "bhairavi",
+      "bhimpalasi",
+      "marwa"
+    ],
+    "referenceSeed": [
+      "pilu",
+      "kafi",
+      "tilak-kamod"
+    ],
+    "systemTaalCandidates": [
+      "Dadra",
+      "Teentaal",
+      "Ektaal",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-yaman-b01c79e9c2",
+    "language": "Punjabi",
+    "poem": "ਸਾਧਕ ਪਵਿੱਤਰ ਨਾਮ ਨੂੰ ਸਾਹਾਂ ਵਿੱਚ ਜਪਦਾ ਹੈ. ਜਦ ਸ਼ਾਮ ਦੇਹਲੀਜ਼ ਉੱਤੇ ਉਤਰਦੀ ਹੈ.\nਹਉਮੈ ਅਣਦੇਖੇ ਸੱਚ ਅੱਗੇ ਝੁਕਦੀ ਹੈ; ਮੁਖੜਾ ਆਪਣੇ ਠਹਿਰਾਉ ਵਾਲੇ ਬੋਲ ਵੱਲ ਮੁੜਦਾ ਹੈ.",
+    "systemCandidates": [
+      "bhupali",
+      "yaman",
+      "purvi",
+      "shuddh-kalyan",
+      "marwa"
+    ],
+    "referenceSeed": [
+      "yaman",
+      "bihag",
+      "tilak-kamod"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Keharwa",
+      "Dadra"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-darbari-kanada-a60b5c8bf8",
+    "language": "Hindi",
+    "poem": "मौन निर्मल नदी की तरह खुलता है. गहरी सुनती हुई रात में.\nहर नाम मिटने पर शांति शेष रहती है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "darbari-kanada",
+      "malkauns",
+      "chhayanat",
+      "alhaiya-bilawal",
+      "shuddh-kalyan"
+    ],
+    "referenceSeed": [
+      "darbari-kanada",
+      "todi",
+      "shivaranjani"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhumra",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-marwa-232b1315ea",
+    "language": "Punjabi",
+    "poem": "ਪੈਰਾਂ ਦੇ ਨਿਸ਼ਾਨ ਮਿਟੇ ਪਰ ਦਰਦ ਰਹਿ ਗਿਆ. ਜਦ ਸ਼ਾਮ ਦੇਹਲੀਜ਼ ਉੱਤੇ ਉਤਰਦੀ ਹੈ.\nਯਾਦ ਅੱਖਾਂ ਵਿੱਚ ਸਾਵਣ ਬਣ ਕੇ ਮੁੜਦੀ ਹੈ; ਮੁਖੜਾ ਆਪਣੇ ਠਹਿਰਾਉ ਵਾਲੇ ਬੋਲ ਵੱਲ ਮੁੜਦਾ ਹੈ.",
+    "systemCandidates": [
+      "marwa",
+      "shuddh-kalyan",
+      "bhupali",
+      "yaman",
+      "purvi"
+    ],
+    "referenceSeed": [
+      "marwa",
+      "purvi",
+      "todi"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-khamaj-eaf6d3b388",
+    "language": "Roman",
+    "poem": "the beloved arrives through fragrance and moonlight. through the deep listening night.\nthe glance of the beloved unsettles the heart; each line keeps a private wound.",
+    "systemCandidates": [
+      "shivaranjani",
+      "khamaj",
+      "bihag",
+      "tilak-kamod",
+      "hamir"
+    ],
+    "referenceSeed": [
+      "khamaj",
+      "tilak-kamod",
+      "bihag"
+    ],
+    "systemTaalCandidates": [
+      "Dadra",
+      "Teentaal",
+      "Keharwa",
+      "Ektaal"
+    ],
+    "referenceTaalSeed": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-marwa-78db1a9be8",
+    "language": "Roman",
+    "poem": "dard remains after the footsteps fade. as evening gathers at the threshold.\nmemory returns with rain in the eyes; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "marwa",
+      "shuddh-kalyan",
+      "bhupali",
+      "purvi",
+      "yaman"
+    ],
+    "referenceSeed": [
+      "marwa",
+      "purvi",
+      "todi"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-darbari-kanada-f8ac1f61f2",
+    "language": "Urdu",
+    "poem": "خاموشی صاف دریا کی طرح کھلتی ہے. گہری سنتی ہوئی رات میں.\nہر نام مٹ جائے تو امن باقی رہتا ہے; مکھڑا اپنے ٹھہراؤ کے لفظ پر لوٹتا ہے.",
+    "systemCandidates": [
+      "darbari-kanada",
+      "malkauns",
+      "chhayanat",
+      "alhaiya-bilawal",
+      "shuddh-kalyan"
+    ],
+    "referenceSeed": [
+      "darbari-kanada",
+      "todi",
+      "shivaranjani"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhumra",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-bageshree-de9ef5f8ee",
+    "language": "Punjabi",
+    "poem": "ਪੈਰਾਂ ਦੇ ਨਿਸ਼ਾਨ ਮਿਟੇ ਪਰ ਦਰਦ ਰਹਿ ਗਿਆ. ਗਹਿਰੀ ਸੁਣਦੀ ਰਾਤ ਵਿੱਚ.\nਯਾਦ ਅੱਖਾਂ ਵਿੱਚ ਸਾਵਣ ਬਣ ਕੇ ਮੁੜਦੀ ਹੈ; ਮੁਖੜਾ ਆਪਣੇ ਠਹਿਰਾਉ ਵਾਲੇ ਬੋਲ ਵੱਲ ਮੁੜਦਾ ਹੈ.",
+    "systemCandidates": [
+      "jayjaywanti",
+      "bageshree",
+      "shivaranjani",
+      "marwa",
+      "durga"
+    ],
+    "referenceSeed": [
+      "bageshree",
+      "jayjaywanti",
+      "bhairavi"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-asavari-6ce5fd2ecc",
+    "language": "Hindi",
+    "poem": "दर्द पगचिह्न मिटने के बाद भी ठहरा है. प्रभात की पहली रोशनी में.\nस्मृति आँखों में सावन बनकर लौटती है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "todi",
+      "asavari",
+      "bhairavi",
+      "alhaiya-bilawal",
+      "bhairav"
+    ],
+    "referenceSeed": [
+      "asavari",
+      "todi",
+      "ahir-bhairav"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-shuddha-sarang-3c650ec3bc",
+    "language": "Urdu",
+    "poem": "خاموشی صاف دریا کی طرح کھلتی ہے. ٹھہری دوپہر کی دھوپ میں.\nہر نام مٹ جائے تو امن باقی رہتا ہے; مکھڑا اپنے ٹھہراؤ کے لفظ پر لوٹتا ہے.",
+    "systemCandidates": [
+      "shuddha-sarang",
+      "gaud-sarang",
+      "bhimpalasi",
+      "darbari-kanada",
+      "malkauns"
+    ],
+    "referenceSeed": [
+      "shuddha-sarang",
+      "gaud-sarang",
+      "durga"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-darbari-kanada-c9b95bb680",
+    "language": "Roman",
+    "poem": "silence opens like a clear river. through the deep listening night.\npeace remains when every name dissolves; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "malkauns",
+      "darbari-kanada",
+      "chhayanat",
+      "shuddh-kalyan",
+      "jayjaywanti"
+    ],
+    "referenceSeed": [
+      "darbari-kanada",
+      "todi",
+      "shivaranjani"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Jhumra",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-alhaiya-bilawal-e9f058a1cb",
+    "language": "Hindi",
+    "poem": "मौन निर्मल नदी की तरह खुलता है. प्रभात की पहली रोशनी में.\nहर नाम मिटने पर शांति शेष रहती है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "alhaiya-bilawal",
+      "todi",
+      "asavari",
+      "bhairav",
+      "ahir-bhairav"
+    ],
+    "referenceSeed": [
+      "alhaiya-bilawal",
+      "durga",
+      "bhupali"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-chhayanat-b3b41a83ca",
+    "language": "Roman",
+    "poem": "silence opens like a clear river. through the deep listening night.\npeace remains when every name dissolves; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "malkauns",
+      "darbari-kanada",
+      "chhayanat",
+      "shuddh-kalyan",
+      "jayjaywanti"
+    ],
+    "referenceSeed": [
+      "chhayanat",
+      "durga",
+      "alhaiya-bilawal"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-pilu-e46e2839ef",
+    "language": "Urdu",
+    "poem": "نقش مٹ گئے مگر درد باقی رہا. وقت اور موسم کی حد سے پرے.\nیاد آنکھوں میں ساون بن کر لوٹتی ہے; ہر مصرع اپنا ایک زخم سنبھالتا ہے.",
+    "systemCandidates": [
+      "pilu",
+      "shivaranjani",
+      "bhairavi",
+      "marwa",
+      "bhimpalasi"
+    ],
+    "referenceSeed": [
+      "pilu",
+      "kafi",
+      "tilak-kamod"
+    ],
+    "systemTaalCandidates": [
+      "Dadra",
+      "Teentaal",
+      "Ektaal",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-gaud-sarang-3dc44fb6d0",
+    "language": "Hindi",
+    "poem": "मौन निर्मल नदी की तरह खुलता है. स्थिर दोपहर की धूप में.\nहर नाम मिटने पर शांति शेष रहती है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "gaud-sarang",
+      "shuddha-sarang",
+      "bhimpalasi",
+      "darbari-kanada",
+      "malkauns"
+    ],
+    "referenceSeed": [
+      "gaud-sarang",
+      "shuddha-sarang",
+      "alhaiya-bilawal"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-bhairav-eb0fbcfebc",
+    "language": "Roman",
+    "poem": "the seeker repeats the sacred name. at the first light of morning.\nthe self bows before an unseen truth; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "bhairav",
+      "ahir-bhairav",
+      "alhaiya-bilawal",
+      "todi",
+      "asavari"
+    ],
+    "referenceSeed": [
+      "bhairav",
+      "ahir-bhairav",
+      "purvi"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Keharwa",
+      "Dadra"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-hamir-1cd800a980",
+    "language": "Urdu",
+    "poem": "محبوب کی آہٹ چاندنی اور خوشبو میں آتی ہے. گہری سنتی ہوئی رات میں.\nیار کی ایک نظر دل کو بے قرار کرتی ہے; مکھڑا اپنے ٹھہراؤ کے لفظ پر لوٹتا ہے.",
+    "systemCandidates": [
+      "bihag",
+      "tilak-kamod",
+      "hamir",
+      "khamaj",
+      "chhayanat"
+    ],
+    "referenceSeed": [
+      "hamir",
+      "kafi",
+      "bihag"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-khamaj-a882753e6f",
+    "language": "Urdu",
+    "poem": "محبوب کی آہٹ چاندنی اور خوشبو میں آتی ہے. گہری سنتی ہوئی رات میں.\nیار کی ایک نظر دل کو بے قرار کرتی ہے; ہر مصرع اپنا ایک زخم سنبھالتا ہے.",
+    "systemCandidates": [
+      "shivaranjani",
+      "khamaj",
+      "bihag",
+      "tilak-kamod",
+      "hamir"
+    ],
+    "referenceSeed": [
+      "khamaj",
+      "tilak-kamod",
+      "bihag"
+    ],
+    "systemTaalCandidates": [
+      "Dadra",
+      "Teentaal",
+      "Keharwa",
+      "Ektaal"
+    ],
+    "referenceTaalSeed": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-ahir-bhairav-63411c686f",
+    "language": "Roman",
+    "poem": "the seeker repeats the sacred name. at the first light of morning.\nthe self bows before an unseen truth; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "bhairav",
+      "ahir-bhairav",
+      "alhaiya-bilawal",
+      "todi",
+      "asavari"
+    ],
+    "referenceSeed": [
+      "ahir-bhairav",
+      "bhairav",
+      "shuddh-kalyan"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Keharwa",
+      "Dadra"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-asavari-00add8d029",
+    "language": "Punjabi",
+    "poem": "ਪੈਰਾਂ ਦੇ ਨਿਸ਼ਾਨ ਮਿਟੇ ਪਰ ਦਰਦ ਰਹਿ ਗਿਆ. ਸਵੇਰ ਦੀ ਪਹਿਲੀ ਲੋਅ ਵਿੱਚ.\nਯਾਦ ਅੱਖਾਂ ਵਿੱਚ ਸਾਵਣ ਬਣ ਕੇ ਮੁੜਦੀ ਹੈ; ਮੁਖੜਾ ਆਪਣੇ ਠਹਿਰਾਉ ਵਾਲੇ ਬੋਲ ਵੱਲ ਮੁੜਦਾ ਹੈ.",
+    "systemCandidates": [
+      "todi",
+      "asavari",
+      "bhairavi",
+      "alhaiya-bilawal",
+      "bhairav"
+    ],
+    "referenceSeed": [
+      "asavari",
+      "todi",
+      "ahir-bhairav"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-bhairav-3fb6577beb",
+    "language": "Hindi",
+    "poem": "साधक पवित्र नाम को साँसों में दोहराता है. प्रभात की पहली रोशनी में.\nअहंकार अनदेखे सत्य के आगे झुकता है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "bhairav",
+      "ahir-bhairav",
+      "alhaiya-bilawal",
+      "durga",
+      "todi"
+    ],
+    "referenceSeed": [
+      "bhairav",
+      "ahir-bhairav",
+      "purvi"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Keharwa",
+      "Dadra"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-bihag-0ce6efdc35",
+    "language": "Hindi",
+    "poem": "प्रिय की आहट चाँदनी और सुगंध में आती है. गहरी सुनती हुई रात में.\nप्रिय की एक दृष्टि हृदय को व्याकुल करती है; मुखड़ा अपने ठहराव शब्द पर लौटता है.",
+    "systemCandidates": [
+      "bihag",
+      "tilak-kamod",
+      "hamir",
+      "khamaj",
+      "kafi"
+    ],
+    "referenceSeed": [
+      "bihag",
+      "tilak-kamod",
+      "yaman"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-gaud-sarang-01cd6a792d",
+    "language": "Punjabi",
+    "poem": "ਚੁੱਪ ਨਿਰਮਲ ਦਰਿਆ ਵਾਂਗ ਖੁਲਦੀ ਹੈ. ਥਿਰ ਦੁਪਹਿਰ ਦੀ ਧੁੱਪ ਹੇਠ.\nਹਰ ਨਾਮ ਮਿਟੇ ਤਾਂ ਸਕੂਨ ਰਹਿ ਜਾਂਦਾ ਹੈ; ਮੁਖੜਾ ਆਪਣੇ ਠਹਿਰਾਉ ਵਾਲੇ ਬੋਲ ਵੱਲ ਮੁੜਦਾ ਹੈ.",
+    "systemCandidates": [
+      "shuddha-sarang",
+      "gaud-sarang",
+      "bhimpalasi",
+      "darbari-kanada",
+      "malkauns"
+    ],
+    "referenceSeed": [
+      "gaud-sarang",
+      "shuddha-sarang",
+      "alhaiya-bilawal"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-jayjaywanti-a4441686c6",
+    "language": "Roman",
+    "poem": "dard remains after the footsteps fade. through the deep listening night.\nmemory returns with rain in the eyes; the refrain returns to its resting word.",
+    "systemCandidates": [
+      "jayjaywanti",
+      "bageshree",
+      "shivaranjani",
+      "marwa",
+      "todi"
+    ],
+    "referenceSeed": [
+      "jayjaywanti",
+      "bageshree",
+      "bhairavi"
+    ],
+    "systemTaalCandidates": [
+      "Ektaal",
+      "Teentaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Ektaal",
+      "Teentaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  },
+  {
+    "itemId": "syn-shuddh-kalyan-ff8d1d57b3",
+    "language": "Punjabi",
+    "poem": "ਚੁੱਪ ਨਿਰਮਲ ਦਰਿਆ ਵਾਂਗ ਖੁਲਦੀ ਹੈ. ਜਦ ਸ਼ਾਮ ਦੇਹਲੀਜ਼ ਉੱਤੇ ਉਤਰਦੀ ਹੈ.\nਹਰ ਨਾਮ ਮਿਟੇ ਤਾਂ ਸਕੂਨ ਰਹਿ ਜਾਂਦਾ ਹੈ; ਮੁਖੜਾ ਆਪਣੇ ਠਹਿਰਾਉ ਵਾਲੇ ਬੋਲ ਵੱਲ ਮੁੜਦਾ ਹੈ.",
+    "systemCandidates": [
+      "shuddh-kalyan",
+      "marwa",
+      "bhupali",
+      "yaman",
+      "purvi"
+    ],
+    "referenceSeed": [
+      "shuddh-kalyan",
+      "ahir-bhairav",
+      "purvi"
+    ],
+    "systemTaalCandidates": [
+      "Teentaal",
+      "Ektaal",
+      "Dadra",
+      "Keharwa"
+    ],
+    "referenceTaalSeed": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "warning": "Synthetic seed item. Expert judgement is not pre-filled."
+  }
+]

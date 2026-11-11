@@ -1,0 +1,21 @@
+{
+  "experimentId": "maqam-v10-seed-baselines",
+  "randomSeed": 20260730,
+  "dataset": "evaluation/seed_benchmark_v1.csv",
+  "splitPolicy": "template-family holdout",
+  "models": [
+    "rules-prototype-v1",
+    "word-tfidf-logreg-v1",
+    "char-tfidf-text-only-v1",
+    "char-tfidf-context-v1",
+    "hybrid-char-plus-rules-v1"
+  ],
+  "hybridWeights": {
+    "charModel": 0.72,
+    "ruleRanker": 0.28
+  },
+  "primarySelectionMetric": "top3Agreement",
+  "claimBoundary": "Internal synthetic benchmark only; never report as expert agreement.",
+  "modelSelection": "development only; test held out",
+  "pipelineRevision": "v10.6 SURF pilot"
+}

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "sr-deshi-001",
+    "ordinal": 1,
+    "registrySlot": 1,
+    "sourceOrdinal": null,
+    "canonicalName": "Tritiya",
+    "iast": "Tṛtīya",
+    "devanagari": "तृतीय",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-002",
+    "ordinal": 2,
+    "registrySlot": 2,
+    "sourceOrdinal": null,
+    "canonicalName": "Laya",
+    "iast": "Laya",
+    "devanagari": "लय",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-003",
+    "ordinal": 3,
+    "registrySlot": 3,
+    "sourceOrdinal": null,
+    "canonicalName": "Chaturtha",
+    "iast": "Caturtha",
+    "devanagari": "चतुर्थ",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-004",
+    "ordinal": 4,
+    "registrySlot": 4,
+    "sourceOrdinal": null,
+    "canonicalName": "Chanda",
+    "iast": "Chanda",
+    "devanagari": "छन्द",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-005",
+    "ordinal": 5,
+    "registrySlot": 5,
+    "sourceOrdinal": null,
+    "canonicalName": "Panchama",
+    "iast": "Pañcama",
+    "devanagari": "पञ्चम",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-006",
+    "ordinal": 6,
+    "registrySlot": 6,
+    "sourceOrdinal": null,
+    "canonicalName": "Chandra",
+    "iast": "Candra",
+    "devanagari": "चन्द्र",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-007",
+    "ordinal": 7,
+    "registrySlot": 7,
+    "sourceOrdinal": null,
+    "canonicalName": "Nissanka Lila",
+    "iast": "Niśśaṅka-līlā",
+    "devanagari": "निश्शङ्कलीला",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-008",
+    "ordinal": 8,
+    "registrySlot": 8,
+    "sourceOrdinal": null,
+    "canonicalName": "Gauri",
+    "iast": "Gaurī",
+    "devanagari": "गौरी",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-009",
+    "ordinal": 9,
+    "registrySlot": 9,
+    "sourceOrdinal": null,
+    "canonicalName": "Yati Lagna",
+    "iast": "Yati-lagna",
+    "devanagari": "यतिलग्न",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-010",
+    "ordinal": 10,
+    "registrySlot": 10,
+    "sourceOrdinal": null,
+    "canonicalName": "Sarasvati Kantabharana",
+    "iast": "Sarasvatī-kaṇṭhābharaṇa",
+    "devanagari": "सरस्वतीकण्ठाभरण",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-011",
+    "ordinal": 11,
+    "registrySlot": 11,
+    "sourceOrdinal": null,
+    "canonicalName": "Varna",
+    "iast": "Varṇa",
+    "devanagari": "वर्ण",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-012",
+    "ordinal": 12,
+    "registrySlot": 12,
+    "sourceOrdinal": null,
+    "canonicalName": "Nissanka",
+    "iast": "Niśśaṅka",
+    "devanagari": "निश्शङ्क",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-013",
+    "ordinal": 13,
+    "registrySlot": 13,
+    "sourceOrdinal": null,
+    "canonicalName": "Gaja",
+    "iast": "Gaja",
+    "devanagari": "गज",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-014",
+    "ordinal": 14,
+    "registrySlot": 14,
+    "sourceOrdinal": null,
+    "canonicalName": "Sarngadeva",
+    "iast": "Śārṅgadeva",
+    "devanagari": "शार्ङ्गदेव",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-015",
+    "ordinal": 15,
+    "registrySlot": 15,
+    "sourceOrdinal": null,
+    "canonicalName": "Sarasa",
+    "iast": "Sarasa",
+    "devanagari": "सरस",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-016",
+    "ordinal": 16,
+    "registrySlot": 16,
+    "sourceOrdinal": null,
+    "canonicalName": "Simha",
+    "iast": "Siṃha",
+    "devanagari": "सिंह",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  }
+]

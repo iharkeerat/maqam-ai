@@ -1,0 +1,28 @@
+{
+  "research_sources": [
+    {
+      "id": "arora2020",
+      "work": "Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi",
+      "url": "https://aclanthology.org/2020.acl-main.696/",
+      "code_and_dataset": "https://github.com/aryamanarora/schwa-deletion",
+      "role": "schwa deletion prior work and external source candidate",
+      "license_and_redistribution": "NOT VERIFIED; do not bundle datasets before checking specific file rights"
+    },
+    {
+      "id": "hindi_speech_corpus",
+      "work": "Hindi Speech Corpus",
+      "url": "https://github.com/aashishyadavally/Hindi-Speech-Corpus",
+      "role": "external phonemic lexicon candidate for Hindi",
+      "license_and_redistribution": "repository README states MIT; verify the rights of each data component before use"
+    },
+    {
+      "id": "indic_g2p",
+      "work": "indic-g2p implementation",
+      "url": "https://github.com/Bindkushal/indic-g2p",
+      "role": "potential independent G2P system for baseline, Punjabi described as beta",
+      "license_and_redistribution": "repository states Apache 2.0; dependency code and any bundled model/dictionary rights require file-level verification; not included"
+    }
+  ],
+  "status": "public metadata verified 2026-10-24; dataset licenses and pronunciation quality not independently checked",
+  "authentic_pronunciation_records_in_this_release": 0
+}

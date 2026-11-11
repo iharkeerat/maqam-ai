@@ -1,0 +1,111 @@
+{
+  "schema": "maqam.external_recovery_u24.registry.v1",
+  "assessment_date": "2026-10-24",
+  "scientific_rule": "Website abstracts do not establish downloaded annotation availability. Do not join different recordings to fabricate same-item gold.",
+  "sources": [
+    {
+      "id": "iitb_wimaga2025_supplement",
+      "title": "Bhake and Rao 2025, Expressive Timing in Hindustani Vocal Music",
+      "landing_url": "https://www.ee.iitb.ac.in/course/~daplab/publications/2025/Expressive%20Timing%20in%20Hindustani%20Vocal%20Music.pdf",
+      "download_url": null,
+      "supplement_url": "https://rb.gy/20whap",
+      "modality": "performed_hindustani_vocal",
+      "public_description": "Manually corrected syllable onsets and Teentaal grid studied in publication",
+      "permitted_use": "Request file and explicit reuse conditions from authors",
+      "obtained_in_release": false,
+      "direct_download_approved": false,
+      "evidence_class": "potential_vocal_onset_data",
+      "claim_scope": "Syllable timing IF the original linked annotations are acquired and validated",
+      "exclusions": [
+        "alternative-pronunciation gold",
+        "proof of joint-alignment superiority"
+      ]
+    },
+    {
+      "id": "iitb_ismir2025",
+      "title": "Bhake, Anand, Rao 2025, Melodic and Metrical Elements of Expressiveness",
+      "landing_url": "https://www.ee.iitb.ac.in/course/~daplab/publications/2025/YB_AA_PR_ISMIR2025.pdf",
+      "download_url": null,
+      "modality": "performed_hindustani_vocal",
+      "public_description": "Authors used pronunciation variants in audio alignment and manually corrected syllable onsets",
+      "permitted_use": "Request original annotations and rights assessment",
+      "obtained_in_release": false,
+      "direct_download_approved": false,
+      "evidence_class": "potential_vocal_onset_data",
+      "claim_scope": "Performance onset timing subject to file acquisition",
+      "exclusions": [
+        "novelty of considering pronunciation alternatives",
+        "independent alternative-pronunciation labels"
+      ]
+    },
+    {
+      "id": "compmusic_tabla_example_1",
+      "title": "CompMusic Tabla Solo sample composition 1, non-mapped syllable onsets",
+      "landing_url": "https://compmusic.upf.edu/te/tabla-solo-dataset",
+      "download_url": "https://compmusic.upf.edu/system/files/static_files/dli_1.csv",
+      "modality": "tabla_percussion",
+      "public_description": "Example manually corrected tabla bol onset CSV offered on dataset page",
+      "permitted_use": "Dataset site says research purposes; redistribution license requires manual review",
+      "obtained_in_release": false,
+      "direct_download_approved": true,
+      "evidence_class": "auxiliary_percussion_onsets_only",
+      "claim_scope": "Tabla bol onset structural profiling; no vocal-lyric evaluation",
+      "exclusions": [
+        "vocal phonemes",
+        "Hindi lyric syllables",
+        "alternative sung pronunciations"
+      ]
+    },
+    {
+      "id": "compmusic_hindustani_rhythm",
+      "title": "CompMusic Hindustani Rhythm Dataset",
+      "landing_url": "https://compmusic.upf.edu/hindustani-rhythm-dataset",
+      "download_url": null,
+      "modality": "rhythmic_cycle",
+      "public_description": "Manually annotated cycle progression markers and associated taal metadata",
+      "permitted_use": "Inspect Zenodo deposit and file-level rights before use",
+      "obtained_in_release": false,
+      "direct_download_approved": false,
+      "evidence_class": "auxiliary_taal_grid_only",
+      "claim_scope": "Rhythm cycle analysis",
+      "exclusions": [
+        "same-item sung syllable annotations",
+        "pronunciation variants"
+      ]
+    },
+    {
+      "id": "saraga_hindustani",
+      "title": "Saraga Hindustani (version 1.5)",
+      "landing_url": "https://zenodo.org/records/4301737",
+      "download_url": null,
+      "modality": "rhythm_phrase",
+      "public_description": "Sama cycle markers, tempo and melodic-phrase data; very large archive",
+      "permitted_use": "CC BY-NC-SA 4.0 indicated by mirdata documentation; verify file-level metadata",
+      "obtained_in_release": false,
+      "direct_download_approved": false,
+      "evidence_class": "auxiliary_rhythm_and_phrase_only",
+      "claim_scope": "Raga/rhythm and symbolic phrase studies",
+      "exclusions": [
+        "same-item pronunciation variants",
+        "sung syllable onset gold"
+      ]
+    },
+    {
+      "id": "sargambench_2026_reconstructed",
+      "title": "SargamBench reconstructed release",
+      "landing_url": "https://zenodo.org/records/21904267",
+      "download_url": null,
+      "modality": "symbolic_lyric_sargam",
+      "public_description": "The downloadable README in prior U22 audit reports blank lyric fields",
+      "permitted_use": "Verify original non-reconstructed records and deposit license first",
+      "obtained_in_release": false,
+      "direct_download_approved": false,
+      "evidence_class": "blocked_missing_lyrics",
+      "claim_scope": "No lyric-to-Sargam gold until original tokens verified",
+      "exclusions": [
+        "independently verified lyric alignments",
+        "sung pronunciation alternatives"
+      ]
+    }
+  ]
+}

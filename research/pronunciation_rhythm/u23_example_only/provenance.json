@@ -1,0 +1,10 @@
+{
+  "schema": "maqam.performance_u23.v1",
+  "source_kind": "synthetic_test_fixture",
+  "data_filename": "syllable_onsets.csv",
+  "data_sha256": "8e3a6ec237128456a552bd9296734b19fb7f93b07d7cb82f4cc5e31436c73805",
+  "reference_url": "https://example.org/not-a-real-dataset",
+  "annotation_procedure": "Constructed unit-test example; no audio or musicians",
+  "license_assessment": "Generated fixture; no external data",
+  "provenance_note": "DO NOT USE AS RESEARCH GROUND TRUTH"
+}

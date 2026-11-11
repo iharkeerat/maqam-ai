@@ -1,0 +1,14 @@
+{
+  "repository": "OpenScore/Lieder",
+  "pinned_commit": "38c5db510224d9facdc4b08d741fc788cfb58ea8",
+  "audit_date": "2026-11-02",
+  "status": "POST_HOC_ENGINEERING_REASSESSMENT_OF_FROZEN_FIVE_SCORES",
+  "method": "Independent in-memory XML structural scan through read-only connected GitHub files; the full originals were not transferred to local Python.",
+  "scores": [
+    {"name":"Barnby To England", "path":"scores/Barnby,_Joseph/_/To_England/lc6479829.mscx", "git_blob_sha1":"2dbca655d26a4fa46d1679f166800356df4965fb", "old_eligible":true, "v6_expected":"ELIGIBLE", "chords":226, "lyric_anchors":224},
+    {"name":"Schubert An die Musik", "path":"scores/Schubert,_Franz/_/An_die_Musik,_D.547/lc6180725.mscx", "git_blob_sha1":"c2069cf6d26da7bc7dd1e077058d691f7164ddcb", "old_eligible":true, "v6_expected":"ELIGIBLE", "chords":63, "lyric_anchors":50},
+    {"name":"Boulanger Attente", "path":"scores/Boulanger,_Lili/_/Attente/lc5983850.mscx", "git_blob_sha1":"ef46875d1ce519581b73e84d0ec083e1e2e4d3ee", "old_eligible":false, "v6_expected":"EXCLUDED", "expected_reason_contains":"mixed/multiple voices", "first_excluded_measure":23, "counted_tuplets_before_exclusion":7},
+    {"name":"Clara Schumann Die gute Nacht", "path":"scores/Schumann,_Clara/_/Die_gute_Nacht/lc5000388.mscx", "git_blob_sha1":"b5ac4a3c6703e9118e1b2af5fa15e1a983939040", "old_eligible":false, "v6_expected":"ELIGIBLE", "chords":58, "lyric_anchors":53, "direct_measures":57},
+    {"name":"Brahms Die Kränze", "path":"scores/Brahms,_Johannes/4_Gesänge,_Op.46/1_Die_Kränze/lc5084888.mscx", "git_blob_sha1":"1422327bb5aa458b204698b2d8237d3cd09d748b", "old_eligible":false, "v6_expected":"ELIGIBLE", "chords":147, "lyric_anchors":142, "direct_measures":64}
+  ]
+}

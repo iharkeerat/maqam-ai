@@ -1,0 +1,40 @@
+{
+  "protocol_version": "1.0",
+  "status": "FROZEN_METHODS_NOT_EXTERNAL_EVIDENCE",
+  "research_question": "On independently reviewed source-held-out poems, does the fixed hybrid improve expert-set Hit@3 over the development-selected single baseline?",
+  "hypotheses": {
+    "null": "paired Hit@3 delta is zero",
+    "alternative": "paired Hit@3 delta is positive"
+  },
+  "challenger": "hybrid-char-plus-rules-v1",
+  "baseline": "char-tfidf-calibrated-v1",
+  "baseline_selected_from": "synthetic DEV metrics only; no external review or test labels",
+  "selection_metric_order": [
+    "primaryTop3Recall",
+    "macroF1PrimaryLabel",
+    "negative_expectedCalibrationError"
+  ],
+  "primary_metric": "expert-consensus Hit@3 paired delta; same study cases and blinded ratings",
+  "secondary_metrics": [
+    "expert-set Hit@1",
+    "mean reciprocal rank",
+    "language strata",
+    "abstention rate",
+    "reviewer disagreement"
+  ],
+  "uncertainty": "95% source-cluster bootstrap percentile CI (seed=20261023, 3000 replicates)",
+  "study_inclusion": "Only Stage-A consensus cases with >=3 reviewers, no abstention, no unresolved adjudication; show attrition from all cases",
+  "test_data_policy": "No external test labels used for tuning, selection or calibration; freeze ranked predictions before unblinding Stage A",
+  "development_evidence_sha256": {
+    "config": "d844f2727aad5836528fee88ff5dcdc1895795a3270a9d9a17338594b4c094aa",
+    "summary": "5c71481735039553147b3630f45e6bc727ce85c7c6b44075444ce975741c24ad",
+    "model_registry": "83a993986febd4f05c39779c0c99d04e5c6b28d7c6e056a9edc1cbbb8d6addbb"
+  },
+  "frozen_models_sha256": {
+    "raag_context_baseline_v1.joblib": "ac4bc2d8da0ef355f2a5b0cf6279be8c7646608f8aa1a0be65bcc9f9ca72ce6c",
+    "raag_rule_baseline_v1.joblib": "97c247450f07954288b01ffbf30bd18ad7ae5ba0917c5ea7d996b97fc30026fa",
+    "raag_text_baseline_v1.joblib": "68df65ae12f9b561c7029f328b412608c63eaddcbc4d29d9bb7c6894a4f1dbaa"
+  },
+  "evaluation_status": "PENDING_INDEPENDENT_MUSICIAN_STUDY",
+  "caution": "This lock preserves a fixed protocol, not proof that external data, reviewers, or permissions exist."
+}

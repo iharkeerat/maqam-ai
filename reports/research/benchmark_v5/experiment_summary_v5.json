@@ -1,0 +1,356 @@
+{
+  "baseline_specs": {
+    "char-count-complement-nb": "Char_wb 3–5 counts + ComplementNB",
+    "char-plus-metadata-logreg": "Char_wb 3–5 TF-IDF + logistic regression on text + metadata",
+    "char-tfidf-linear-svm": "Char_wb 3–5 TF-IDF + LinearSVC",
+    "char-tfidf-logreg": "Char_wb 3–5 TF-IDF + regularized logistic regression",
+    "majority-prior": "Most frequent synthetic training label (tie: sorted label)",
+    "metadata-only-logreg": "Char_wb 3–5 TF-IDF + logistic regression on metadata only",
+    "time-majority-rule": "Training-only most frequent label conditional on time metadata",
+    "word-tfidf-logreg": "Word 1–2 TF-IDF + regularized logistic regression"
+  },
+  "dataset_sha256": "f6c010623188097fdfee1cb33d6a3f4fcac62481755d1c382e56308129d44393",
+  "development_scores": {
+    "char-count-complement-nb": {
+      "agreement": 0.145833,
+      "macro_f1": 0.113607
+    },
+    "char-plus-metadata-logreg": {
+      "agreement": 0.291667,
+      "macro_f1": 0.28125
+    },
+    "char-tfidf-linear-svm": {
+      "agreement": 0.104167,
+      "macro_f1": 0.100758
+    },
+    "char-tfidf-logreg": {
+      "agreement": 0.104167,
+      "macro_f1": 0.088889
+    },
+    "majority-prior": {
+      "agreement": 0.25,
+      "macro_f1": 0.1
+    },
+    "metadata-only-logreg": {
+      "agreement": 0.5,
+      "macro_f1": 0.375
+    },
+    "time-majority-rule": {
+      "agreement": 0.5,
+      "macro_f1": 0.375
+    },
+    "word-tfidf-logreg": {
+      "agreement": 0.25,
+      "macro_f1": 0.198465
+    }
+  },
+  "hosted_llm_comparison_status": "NOT RUN; no authenticated API output or verified model provenance",
+  "hosted_llm_runs": 0,
+  "independent_synthetic_source_groups_test": 16,
+  "label_set": [
+    "bhakti",
+    "karuna",
+    "shanta",
+    "shringara"
+  ],
+  "limitations": [
+    "Retrospective: v3 test partition has been inspected in upgrades 09–11; not independent confirmatory evidence.",
+    "Dataset is generated from project lexicons and contains only 48 held-out synthetic cases.",
+    "All outcomes score synthetic generator labels, not Raag suitability, poetry interpretation or artistic quality.",
+    "Source clusters are generated from one source mechanism; bootstrap intervals are descriptive only.",
+    "An internal majority/time rule may exploit dataset confounding and is not a published music-theory baseline.",
+    "No large language model, music generator or external API was tested.",
+    "Language subgroup sizes are very small (12 each); comparisons are exploratory.",
+    "The benchmark was constructed after prior system development; formal musical-rule benchmarks need independently sourced standards."
+  ],
+  "manifest_sha256": "8718e9fc9261f8f61050c7b2d043a3dcda0c2ab6d0edb778b658346628556630",
+  "name": "MAQAM Option A v5 local competitive baselines",
+  "paired_vs_majority": {
+    "char-count-complement-nb": {
+      "bootstrap_draws": 2000,
+      "descriptive_95pct_cluster_bootstrap": [
+        -0.25,
+        0.145833
+      ],
+      "not_inference_for": "Natural poetry, musical correctness, or independent external generalization",
+      "paired_agreement_difference": -0.041667,
+      "source_group_count": 16
+    },
+    "char-plus-metadata-logreg": {
+      "bootstrap_draws": 2000,
+      "descriptive_95pct_cluster_bootstrap": [
+        -0.125,
+        0.458333
+      ],
+      "not_inference_for": "Natural poetry, musical correctness, or independent external generalization",
+      "paired_agreement_difference": 0.166667,
+      "source_group_count": 16
+    },
+    "char-tfidf-linear-svm": {
+      "bootstrap_draws": 2000,
+      "descriptive_95pct_cluster_bootstrap": [
+        -0.145833,
+        0.208333
+      ],
+      "not_inference_for": "Natural poetry, musical correctness, or independent external generalization",
+      "paired_agreement_difference": 0.020833,
+      "source_group_count": 16
+    },
+    "char-tfidf-logreg": {
+      "bootstrap_draws": 2000,
+      "descriptive_95pct_cluster_bootstrap": [
+        -0.208333,
+        0.208333
+      ],
+      "not_inference_for": "Natural poetry, musical correctness, or independent external generalization",
+      "paired_agreement_difference": 0.0,
+      "source_group_count": 16
+    },
+    "metadata-only-logreg": {
+      "bootstrap_draws": 2000,
+      "descriptive_95pct_cluster_bootstrap": [
+        -0.1875,
+        0.625
+      ],
+      "not_inference_for": "Natural poetry, musical correctness, or independent external generalization",
+      "paired_agreement_difference": 0.25,
+      "source_group_count": 16
+    },
+    "time-majority-rule": {
+      "bootstrap_draws": 2000,
+      "descriptive_95pct_cluster_bootstrap": [
+        0.0625,
+        0.4375
+      ],
+      "not_inference_for": "Natural poetry, musical correctness, or independent external generalization",
+      "paired_agreement_difference": 0.25,
+      "source_group_count": 16
+    },
+    "word-tfidf-logreg": {
+      "bootstrap_draws": 2000,
+      "descriptive_95pct_cluster_bootstrap": [
+        -0.208333,
+        0.208333
+      ],
+      "not_inference_for": "Natural poetry, musical correctness, or independent external generalization",
+      "paired_agreement_difference": 0.0,
+      "source_group_count": 16
+    }
+  },
+  "random_seed": 20261023,
+  "selected_by_development": "time-majority-rule",
+  "selection_policy": "Fixed candidate set; select on development agreement, macro F1, then model order; refit all on train + development",
+  "shuffled_training_label_controls": [
+    {
+      "agreement": 0.25,
+      "macro_f1": 0.221861,
+      "note": "Training-label permutation; synthetic exploratory negative control only",
+      "seed": 17
+    },
+    {
+      "agreement": 0.3125,
+      "macro_f1": 0.307727,
+      "note": "Training-label permutation; synthetic exploratory negative control only",
+      "seed": 43
+    },
+    {
+      "agreement": 0.354167,
+      "macro_f1": 0.342949,
+      "note": "Training-label permutation; synthetic exploratory negative control only",
+      "seed": 101
+    }
+  ],
+  "split_counts": {
+    "dev": 48,
+    "test": 48,
+    "train": 48
+  },
+  "status": "POST_HOC_COMPUTATIONAL_DIAGNOSTIC_NOT_INDEPENDENT_VALIDATION",
+  "task": "4-class generator-assigned synthetic Rasa category agreement, NOT Raag or music correctness",
+  "test_scores": {
+    "char-count-complement-nb": {
+      "agreement": 0.208333,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.416667,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.083333,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.083333,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.25,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.205321,
+      "time_metadata_swap_flip_rate": 0.0
+    },
+    "char-plus-metadata-logreg": {
+      "agreement": 0.416667,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.416667,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.333333,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.333333,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.583333,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.410548,
+      "time_metadata_swap_flip_rate": 1.0
+    },
+    "char-tfidf-linear-svm": {
+      "agreement": 0.270833,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.416667,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.166667,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.166667,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.333333,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.25154,
+      "time_metadata_swap_flip_rate": 0.0
+    },
+    "char-tfidf-logreg": {
+      "agreement": 0.25,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.5,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.083333,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.083333,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.333333,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.249353,
+      "time_metadata_swap_flip_rate": 0.0
+    },
+    "majority-prior": {
+      "agreement": 0.25,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.25,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.25,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.25,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.25,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.1,
+      "time_metadata_swap_flip_rate": 0.0
+    },
+    "metadata-only-logreg": {
+      "agreement": 0.5,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.5,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.5,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.5,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.5,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.375,
+      "time_metadata_swap_flip_rate": 1.0
+    },
+    "time-majority-rule": {
+      "agreement": 0.5,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.5,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.5,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.5,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.5,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.375,
+      "time_metadata_swap_flip_rate": 1.0
+    },
+    "word-tfidf-logreg": {
+      "agreement": 0.25,
+      "by_language": {
+        "Hindi": {
+          "agreement": 0.083333,
+          "n": 12
+        },
+        "Punjabi": {
+          "agreement": 0.333333,
+          "n": 12
+        },
+        "Roman": {
+          "agreement": 0.416667,
+          "n": 12
+        },
+        "Urdu": {
+          "agreement": 0.166667,
+          "n": 12
+        }
+      },
+      "macro_f1": 0.241165,
+      "time_metadata_swap_flip_rate": 0.0
+    }
+  }
+}

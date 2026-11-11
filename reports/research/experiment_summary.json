@@ -1,0 +1,1082 @@
+{
+  "release": "v10",
+  "benchmark": {
+    "name": "MAQAM multilingual synthetic seed benchmark v1",
+    "type": "internal-synthetic",
+    "expertValidated": false,
+    "rows": 672,
+    "train": 448,
+    "dev": 112,
+    "test": 112,
+    "classes": 28,
+    "languages": [
+      "Hindi",
+      "Punjabi",
+      "Roman",
+      "Urdu"
+    ],
+    "leakageControl": "Template families 0-3 train, 4 dev and 5 test; Raag names are excluded from poems.",
+    "calibration": {
+      "method": "scalar temperature scaling",
+      "temperature": 0.2,
+      "fitSplit": "dev"
+    }
+  },
+  "claimBoundary": "These metrics prove pipeline reproducibility on generated seed data only. They are not expert agreement or real-world accuracy.",
+  "models": [
+    {
+      "items": 112,
+      "top1Agreement": 0.8304,
+      "top3Agreement": 1.0,
+      "primaryTop1Accuracy": 0.6161,
+      "primaryTop3Recall": 1.0,
+      "meanReciprocalRank": 0.9033,
+      "macroF1PrimaryLabel": 0.5312,
+      "expectedCalibrationError": 0.6245,
+      "multiclassBrier": 0.6885,
+      "perLanguage": {
+        "Hindi": {
+          "items": 28,
+          "top1Agreement": 0.8571,
+          "top3Agreement": 1.0,
+          "mrr": 0.9167
+        },
+        "Punjabi": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Roman": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Urdu": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        }
+      },
+      "calibrationBins": [
+        {
+          "lower": 0.0,
+          "upper": 0.1,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.1,
+          "upper": 0.2,
+          "count": 68,
+          "confidence": 0.1557,
+          "accuracy": 0.7206
+        },
+        {
+          "lower": 0.2,
+          "upper": 0.3,
+          "count": 27,
+          "confidence": 0.2484,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.3,
+          "upper": 0.4,
+          "count": 17,
+          "confidence": 0.339,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.4,
+          "upper": 0.5,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.5,
+          "upper": 0.6,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.6,
+          "upper": 0.7,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.7,
+          "upper": 0.8,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.8,
+          "upper": 0.9,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.9,
+          "upper": 1.0,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        }
+      ],
+      "model": "hybrid-char-plus-rules-v1",
+      "confusionPairs": [
+        {
+          "expectedPrimary": "purvi",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "yaman",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "darbari-kanada",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "khamaj",
+          "predicted": "shivaranjani",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "malkauns",
+          "predicted": "darbari-kanada",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "malkauns",
+          "count": 1
+        },
+        {
+          "expectedPrimary": "darbari-kanada",
+          "predicted": "malkauns",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "items": 112,
+      "top1Agreement": 0.8304,
+      "top3Agreement": 1.0,
+      "primaryTop1Accuracy": 0.6161,
+      "primaryTop3Recall": 1.0,
+      "meanReciprocalRank": 0.9033,
+      "macroF1PrimaryLabel": 0.52,
+      "expectedCalibrationError": 0.1568,
+      "multiclassBrier": 0.3939,
+      "perLanguage": {
+        "Hindi": {
+          "items": 28,
+          "top1Agreement": 0.8571,
+          "top3Agreement": 1.0,
+          "mrr": 0.9167
+        },
+        "Punjabi": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Roman": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Urdu": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        }
+      },
+      "calibrationBins": [
+        {
+          "lower": 0.0,
+          "upper": 0.1,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.1,
+          "upper": 0.2,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.2,
+          "upper": 0.3,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.3,
+          "upper": 0.4,
+          "count": 9,
+          "confidence": 0.3961,
+          "accuracy": 0.3333
+        },
+        {
+          "lower": 0.4,
+          "upper": 0.5,
+          "count": 32,
+          "confidence": 0.4421,
+          "accuracy": 0.6562
+        },
+        {
+          "lower": 0.5,
+          "upper": 0.6,
+          "count": 17,
+          "confidence": 0.563,
+          "accuracy": 0.9412
+        },
+        {
+          "lower": 0.6,
+          "upper": 0.7,
+          "count": 9,
+          "confidence": 0.6515,
+          "accuracy": 0.8889
+        },
+        {
+          "lower": 0.7,
+          "upper": 0.8,
+          "count": 5,
+          "confidence": 0.7296,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.8,
+          "upper": 0.9,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.9,
+          "upper": 1.0,
+          "count": 40,
+          "confidence": 0.9944,
+          "accuracy": 1.0
+        }
+      ],
+      "model": "char-tfidf-calibrated-v1",
+      "confusionPairs": [
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "malkauns",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "purvi",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "yaman",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "khamaj",
+          "predicted": "shivaranjani",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "items": 112,
+      "top1Agreement": 0.8304,
+      "top3Agreement": 1.0,
+      "primaryTop1Accuracy": 0.6161,
+      "primaryTop3Recall": 1.0,
+      "meanReciprocalRank": 0.9033,
+      "macroF1PrimaryLabel": 0.52,
+      "expectedCalibrationError": 0.5665,
+      "multiclassBrier": 0.6185,
+      "perLanguage": {
+        "Hindi": {
+          "items": 28,
+          "top1Agreement": 0.8571,
+          "top3Agreement": 1.0,
+          "mrr": 0.9167
+        },
+        "Punjabi": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Roman": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Urdu": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        }
+      },
+      "calibrationBins": [
+        {
+          "lower": 0.0,
+          "upper": 0.1,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.1,
+          "upper": 0.2,
+          "count": 50,
+          "confidence": 0.1816,
+          "accuracy": 0.64
+        },
+        {
+          "lower": 0.2,
+          "upper": 0.3,
+          "count": 28,
+          "confidence": 0.2468,
+          "accuracy": 0.9643
+        },
+        {
+          "lower": 0.3,
+          "upper": 0.4,
+          "count": 18,
+          "confidence": 0.3502,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.4,
+          "upper": 0.5,
+          "count": 14,
+          "confidence": 0.4457,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.5,
+          "upper": 0.6,
+          "count": 2,
+          "confidence": 0.5111,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.6,
+          "upper": 0.7,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.7,
+          "upper": 0.8,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.8,
+          "upper": 0.9,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.9,
+          "upper": 1.0,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        }
+      ],
+      "model": "char-tfidf-context-v1",
+      "confusionPairs": [
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "malkauns",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "purvi",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "yaman",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "khamaj",
+          "predicted": "shivaranjani",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "items": 112,
+      "top1Agreement": 0.8214,
+      "top3Agreement": 1.0,
+      "primaryTop1Accuracy": 0.6429,
+      "primaryTop3Recall": 1.0,
+      "meanReciprocalRank": 0.8988,
+      "macroF1PrimaryLabel": 0.5417,
+      "expectedCalibrationError": 0.5931,
+      "multiclassBrier": 0.6597,
+      "perLanguage": {
+        "Hindi": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Punjabi": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Roman": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        },
+        "Urdu": {
+          "items": 28,
+          "top1Agreement": 0.8214,
+          "top3Agreement": 1.0,
+          "mrr": 0.8988
+        }
+      },
+      "calibrationBins": [
+        {
+          "lower": 0.0,
+          "upper": 0.1,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.1,
+          "upper": 0.2,
+          "count": 58,
+          "confidence": 0.1665,
+          "accuracy": 0.6552
+        },
+        {
+          "lower": 0.2,
+          "upper": 0.3,
+          "count": 30,
+          "confidence": 0.2386,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.3,
+          "upper": 0.4,
+          "count": 20,
+          "confidence": 0.3519,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.4,
+          "upper": 0.5,
+          "count": 4,
+          "confidence": 0.4299,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.5,
+          "upper": 0.6,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.6,
+          "upper": 0.7,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.7,
+          "upper": 0.8,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.8,
+          "upper": 0.9,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.9,
+          "upper": 1.0,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        }
+      ],
+      "model": "word-tfidf-logreg-v1",
+      "confusionPairs": [
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "hamir",
+          "predicted": "tilak-kamod",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "malkauns",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "purvi",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "yaman",
+          "predicted": "bhupali",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "items": 112,
+      "top1Agreement": 0.8571,
+      "top3Agreement": 1.0,
+      "primaryTop1Accuracy": 0.6429,
+      "primaryTop3Recall": 1.0,
+      "meanReciprocalRank": 0.9167,
+      "macroF1PrimaryLabel": 0.5512,
+      "expectedCalibrationError": 0.6479,
+      "multiclassBrier": 0.6889,
+      "perLanguage": {
+        "Hindi": {
+          "items": 28,
+          "top1Agreement": 0.8571,
+          "top3Agreement": 1.0,
+          "mrr": 0.9167
+        },
+        "Punjabi": {
+          "items": 28,
+          "top1Agreement": 0.8571,
+          "top3Agreement": 1.0,
+          "mrr": 0.9167
+        },
+        "Roman": {
+          "items": 28,
+          "top1Agreement": 0.8571,
+          "top3Agreement": 1.0,
+          "mrr": 0.9167
+        },
+        "Urdu": {
+          "items": 28,
+          "top1Agreement": 0.8571,
+          "top3Agreement": 1.0,
+          "mrr": 0.9167
+        }
+      },
+      "calibrationBins": [
+        {
+          "lower": 0.0,
+          "upper": 0.1,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.1,
+          "upper": 0.2,
+          "count": 66,
+          "confidence": 0.1638,
+          "accuracy": 0.7576
+        },
+        {
+          "lower": 0.2,
+          "upper": 0.3,
+          "count": 32,
+          "confidence": 0.2487,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.3,
+          "upper": 0.4,
+          "count": 14,
+          "confidence": 0.3333,
+          "accuracy": 1.0
+        },
+        {
+          "lower": 0.4,
+          "upper": 0.5,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.5,
+          "upper": 0.6,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.6,
+          "upper": 0.7,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.7,
+          "upper": 0.8,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.8,
+          "upper": 0.9,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.9,
+          "upper": 1.0,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        }
+      ],
+      "model": "char-tfidf-text-only-v1",
+      "confusionPairs": [
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "malkauns",
+          "predicted": "darbari-kanada",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "purvi",
+          "predicted": "bhupali",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "yaman",
+          "predicted": "bhupali",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "items": 112,
+      "top1Agreement": 0.6339,
+      "top3Agreement": 0.9554,
+      "primaryTop1Accuracy": 0.4286,
+      "primaryTop3Recall": 0.8571,
+      "meanReciprocalRank": 0.7824,
+      "macroF1PrimaryLabel": 0.3243,
+      "expectedCalibrationError": 0.5749,
+      "multiclassBrier": 0.9259,
+      "perLanguage": {
+        "Hindi": {
+          "items": 28,
+          "top1Agreement": 0.6429,
+          "top3Agreement": 0.9643,
+          "mrr": 0.7842
+        },
+        "Punjabi": {
+          "items": 28,
+          "top1Agreement": 0.6429,
+          "top3Agreement": 0.9643,
+          "mrr": 0.7897
+        },
+        "Roman": {
+          "items": 28,
+          "top1Agreement": 0.6071,
+          "top3Agreement": 0.9286,
+          "mrr": 0.7671
+        },
+        "Urdu": {
+          "items": 28,
+          "top1Agreement": 0.6429,
+          "top3Agreement": 0.9643,
+          "mrr": 0.7887
+        }
+      },
+      "calibrationBins": [
+        {
+          "lower": 0.0,
+          "upper": 0.1,
+          "count": 112,
+          "confidence": 0.0591,
+          "accuracy": 0.6339
+        },
+        {
+          "lower": 0.1,
+          "upper": 0.2,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.2,
+          "upper": 0.3,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.3,
+          "upper": 0.4,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.4,
+          "upper": 0.5,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.5,
+          "upper": 0.6,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.6,
+          "upper": 0.7,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.7,
+          "upper": 0.8,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.8,
+          "upper": 0.9,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        },
+        {
+          "lower": 0.9,
+          "upper": 1.0,
+          "count": 0,
+          "confidence": 0.0,
+          "accuracy": 0.0
+        }
+      ],
+      "model": "rules-prototype-v1",
+      "confusionPairs": [
+        {
+          "expectedPrimary": "bhairavi",
+          "predicted": "asavari",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "desh",
+          "predicted": "durga",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "hamir",
+          "predicted": "tilak-kamod",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "shivaranjani",
+          "predicted": "jayjaywanti",
+          "count": 4
+        },
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "malkauns",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "darbari-kanada",
+          "predicted": "malkauns",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "kafi",
+          "predicted": "tilak-kamod",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "pilu",
+          "predicted": "shivaranjani",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "purvi",
+          "predicted": "bhupali",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "yaman",
+          "predicted": "bhupali",
+          "count": 3
+        },
+        {
+          "expectedPrimary": "bhupali",
+          "predicted": "yaman",
+          "count": 1
+        },
+        {
+          "expectedPrimary": "chhayanat",
+          "predicted": "darbari-kanada",
+          "count": 1
+        },
+        {
+          "expectedPrimary": "kafi",
+          "predicted": "hamir",
+          "count": 1
+        },
+        {
+          "expectedPrimary": "khamaj",
+          "predicted": "hamir",
+          "count": 1
+        },
+        {
+          "expectedPrimary": "malkauns",
+          "predicted": "darbari-kanada",
+          "count": 1
+        },
+        {
+          "expectedPrimary": "pilu",
+          "predicted": "marwa",
+          "count": 1
+        },
+        {
+          "expectedPrimary": "purvi",
+          "predicted": "yaman",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "selectedModel": "hybrid-char-plus-rules-v1",
+  "selectionSplit": "dev (train-only candidates)",
+  "developmentComparisons": [
+    {
+      "model": "hybrid-char-plus-rules-v1",
+      "primaryTop3Recall": 1.0,
+      "macroF1PrimaryLabel": 0.5719,
+      "expectedCalibrationError": 0.6667
+    },
+    {
+      "model": "char-tfidf-calibrated-v1",
+      "primaryTop3Recall": 1.0,
+      "macroF1PrimaryLabel": 0.5695,
+      "expectedCalibrationError": 0.1669
+    },
+    {
+      "model": "char-tfidf-context-v1",
+      "primaryTop3Recall": 1.0,
+      "macroF1PrimaryLabel": 0.5695,
+      "expectedCalibrationError": 0.6146
+    },
+    {
+      "model": "word-tfidf-logreg-v1",
+      "primaryTop3Recall": 1.0,
+      "macroF1PrimaryLabel": 0.5505,
+      "expectedCalibrationError": 0.5948
+    },
+    {
+      "model": "char-tfidf-text-only-v1",
+      "primaryTop3Recall": 0.9911,
+      "macroF1PrimaryLabel": 0.5219,
+      "expectedCalibrationError": 0.6306
+    },
+    {
+      "model": "rules-prototype-v1",
+      "primaryTop3Recall": 0.8839,
+      "macroF1PrimaryLabel": 0.3944,
+      "expectedCalibrationError": 0.6559
+    }
+  ],
+  "selectedMetrics": {
+    "top1Agreement": 0.8304,
+    "top3Agreement": 1.0,
+    "primaryTop1Accuracy": 0.6161,
+    "primaryTop3Recall": 1.0,
+    "meanReciprocalRank": 0.9033,
+    "macroF1PrimaryLabel": 0.5312,
+    "expectedCalibrationError": 0.6245,
+    "multiclassBrier": 0.6885
+  },
+  "taalModel": {
+    "items": 112,
+    "top1Agreement": 1.0,
+    "top3Agreement": 1.0,
+    "primaryTop1Accuracy": 0.8661,
+    "primaryTop3Recall": 1.0,
+    "meanReciprocalRank": 1.0,
+    "macroF1PrimaryLabel": 0.9115,
+    "expectedCalibrationError": 0.2899,
+    "multiclassBrier": 0.2271,
+    "perLanguage": {
+      "Hindi": {
+        "items": 28,
+        "top1Agreement": 1.0,
+        "top3Agreement": 1.0,
+        "mrr": 1.0
+      },
+      "Punjabi": {
+        "items": 28,
+        "top1Agreement": 1.0,
+        "top3Agreement": 1.0,
+        "mrr": 1.0
+      },
+      "Roman": {
+        "items": 28,
+        "top1Agreement": 1.0,
+        "top3Agreement": 1.0,
+        "mrr": 1.0
+      },
+      "Urdu": {
+        "items": 28,
+        "top1Agreement": 1.0,
+        "top3Agreement": 1.0,
+        "mrr": 1.0
+      }
+    },
+    "calibrationBins": [
+      {
+        "lower": 0.0,
+        "upper": 0.1,
+        "count": 0,
+        "confidence": 0.0,
+        "accuracy": 0.0
+      },
+      {
+        "lower": 0.1,
+        "upper": 0.2,
+        "count": 0,
+        "confidence": 0.0,
+        "accuracy": 0.0
+      },
+      {
+        "lower": 0.2,
+        "upper": 0.3,
+        "count": 0,
+        "confidence": 0.0,
+        "accuracy": 0.0
+      },
+      {
+        "lower": 0.3,
+        "upper": 0.4,
+        "count": 0,
+        "confidence": 0.0,
+        "accuracy": 0.0
+      },
+      {
+        "lower": 0.4,
+        "upper": 0.5,
+        "count": 7,
+        "confidence": 0.4618,
+        "accuracy": 1.0
+      },
+      {
+        "lower": 0.5,
+        "upper": 0.6,
+        "count": 31,
+        "confidence": 0.5408,
+        "accuracy": 1.0
+      },
+      {
+        "lower": 0.6,
+        "upper": 0.7,
+        "count": 13,
+        "confidence": 0.6251,
+        "accuracy": 1.0
+      },
+      {
+        "lower": 0.7,
+        "upper": 0.8,
+        "count": 18,
+        "confidence": 0.7522,
+        "accuracy": 1.0
+      },
+      {
+        "lower": 0.8,
+        "upper": 0.9,
+        "count": 28,
+        "confidence": 0.8468,
+        "accuracy": 1.0
+      },
+      {
+        "lower": 0.9,
+        "upper": 1.0,
+        "count": 15,
+        "confidence": 0.9434,
+        "accuracy": 1.0
+      }
+    ],
+    "model": "taal-char-tfidf-context-v1",
+    "confusionPairs": []
+  },
+  "target": {
+    "metric": "Top-3 expert-set agreement",
+    "range": "0.90-0.93",
+    "status": "not measured",
+    "requires": "independent expert-labelled benchmark"
+  }
+}

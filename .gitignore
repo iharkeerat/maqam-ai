@@ -1,0 +1,46 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local data and secrets
+.env
+.env.local
+outputs/*.wav
+outputs/*.png
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Confidential external-study corpora and reviewer packets
+evaluation/PRIVATE_*/
+evaluation/my_PRIVATE_*.csv
+evaluation/*_PRIVATE.csv
+evaluation/*_PRIVATE_*.csv
+reports/research/*_private_*.json
+
+# Upgrade 06: confidential proof bundles and completed study attestation
+**/evidence-files/
+**/evidence_manifest_PRIVATE.json
+**/study_approval_PRIVATE.json
+**/reviewer_recruitment_PRIVATE.csv
+**/*_PRIVATE_preflight.json
+
+# Do not commit private application documents, credentials or personal studies
+*.pem
+*.key
+*.p12
+*.pfx
+transcript*
+private_*/
+**/PRIVATE/
+**/secrets*/

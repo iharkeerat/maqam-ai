@@ -1,0 +1,9 @@
+{
+  "name": "MAQAM AI \u2014 A Living Archive of Music",
+  "short_name": "MAQAM AI",
+  "description": "A historic-meets-modern computational musicology atelier for poetry, raag grammar and expressive musical sketching.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eee8dd",
+  "theme_color": "#171613"
+}

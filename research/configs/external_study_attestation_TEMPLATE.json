@@ -1,0 +1,11 @@
+{
+  "template_only": true,
+  "responsible_researcher": "",
+  "signed_date": "",
+  "rights_and_sharing_verified": {"completed": false, "evidence_reference": ""},
+  "ethics_determination_recorded": {"completed": false, "evidence_reference": ""},
+  "reviewer_qualification_checked": {"completed": false, "evidence_reference": ""},
+  "blinded_stage_a_completed": {"completed": false, "evidence_reference": ""},
+  "predictions_frozen_before_unblinding": {"completed": false, "evidence_reference": ""},
+  "warning": "Never mark completed=true without a genuine human-verified evidence record; this template is NOT an approval."
+}

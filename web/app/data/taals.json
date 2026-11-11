@@ -1,0 +1,953 @@
+[
+  {
+    "id": "teentaal",
+    "name": "Teentaal",
+    "aliases": [
+      "Tintal",
+      "Teen Taal"
+    ],
+    "beats": 16,
+    "divisions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": "Dha Dhin Dhin Dha | Dha Dhin Dhin Dha | Dha Tin Tin Ta | Ta Dhin Dhin Dha",
+    "family": "khayal",
+    "suitableForms": [
+      "Khayal",
+      "Bandish",
+      "Instrumental"
+    ],
+    "suitableLaya": [
+      "Vilambit",
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 98,
+    "verification": "source-verified",
+    "reviewStatus": "usable-with-caution",
+    "note": "Common 16-matra cycle; gharana and performance variants remain possible.",
+    "provenance": [
+      "nios-hindustani-theory",
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "ektaal",
+    "name": "Ektaal",
+    "aliases": [
+      "Ektal"
+    ],
+    "beats": 12,
+    "divisions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "marks": [
+      "X",
+      "0",
+      "2",
+      "0",
+      "3",
+      "4"
+    ],
+    "theka": "Dhin Dhin | DhaGe Tirakita | Tu Na | Kat Ta | DhaGe Tirakita | Dhin Na",
+    "family": "khayal",
+    "suitableForms": [
+      "Vilambit Khayal",
+      "Drut Khayal",
+      "Instrumental"
+    ],
+    "suitableLaya": [
+      "Vilambit",
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 96,
+    "verification": "source-verified",
+    "reviewStatus": "usable-with-caution",
+    "note": "Six two-matra vibhags.",
+    "provenance": [
+      "nios-hindustani-theory",
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "jhaptal",
+    "name": "Jhaptal",
+    "aliases": [
+      "Jhap Taal"
+    ],
+    "beats": 10,
+    "divisions": [
+      2,
+      3,
+      2,
+      3
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": "Dhi Na | Dhi Dhi Na | Ti Na | Dhi Dhi Na",
+    "family": "khayal",
+    "suitableForms": [
+      "Khayal",
+      "Bandish",
+      "Instrumental"
+    ],
+    "suitableLaya": [
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 95,
+    "verification": "source-verified",
+    "reviewStatus": "usable-with-caution",
+    "note": "Asymmetrical 2+3+2+3 cycle.",
+    "provenance": [
+      "nios-hindustani-theory",
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "rupak",
+    "name": "Rupak",
+    "aliases": [
+      "Rupak Taal"
+    ],
+    "beats": 7,
+    "divisions": [
+      3,
+      2,
+      2
+    ],
+    "marks": [
+      "0",
+      "2",
+      "3"
+    ],
+    "theka": "Tin Tin Na | Dhin Na | Dhin Na",
+    "family": "general",
+    "suitableForms": [
+      "Khayal",
+      "Bhajan",
+      "Ghazal",
+      "Instrumental"
+    ],
+    "suitableLaya": [
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 94,
+    "verification": "source-verified",
+    "reviewStatus": "usable-with-caution",
+    "note": "Begins with khali in common Hindustani practice.",
+    "provenance": [
+      "nios-hindustani-theory",
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "dadra",
+    "name": "Dadra",
+    "aliases": [
+      "Dadra Taal"
+    ],
+    "beats": 6,
+    "divisions": [
+      3,
+      3
+    ],
+    "marks": [
+      "X",
+      "0"
+    ],
+    "theka": "Dha Dhi Na | Na Ti Na",
+    "family": "light-classical",
+    "suitableForms": [
+      "Dadra",
+      "Thumri",
+      "Ghazal",
+      "Bhajan"
+    ],
+    "suitableLaya": [
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 93,
+    "verification": "source-verified",
+    "reviewStatus": "usable-with-caution",
+    "note": "Multiple theka variants are common.",
+    "provenance": [
+      "nios-hindustani-theory",
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "keharwa",
+    "name": "Keharwa",
+    "aliases": [
+      "Kaharwa",
+      "Keherwa"
+    ],
+    "beats": 8,
+    "divisions": [
+      4,
+      4
+    ],
+    "marks": [
+      "X",
+      "0"
+    ],
+    "theka": "Dha Ge Na Ti | Na Ka Dhin Na",
+    "family": "folk",
+    "suitableForms": [
+      "Bhajan",
+      "Ghazal",
+      "Folk",
+      "Light classical"
+    ],
+    "suitableLaya": [
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 93,
+    "verification": "source-verified",
+    "reviewStatus": "usable-with-caution",
+    "note": "Extremely variant-rich eight-matra cycle.",
+    "provenance": [
+      "nios-hindustani-theory",
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "dhamar",
+    "name": "Dhamar",
+    "aliases": [
+      "Dhamaar"
+    ],
+    "beats": 14,
+    "divisions": [
+      5,
+      2,
+      3,
+      4
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": "Ka Dhi Ta Dhi Ta | Dha - | Ga Ti Ta | Ti Ta Ta -",
+    "family": "dhrupad",
+    "suitableForms": [
+      "Dhamar",
+      "Dhrupad"
+    ],
+    "suitableLaya": [
+      "Vilambit",
+      "Madhya"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 88,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Pakhawaj bols and regional/lineage variants require review.",
+    "provenance": [
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "chautal",
+    "name": "Chautal",
+    "aliases": [
+      "Chowtal",
+      "Chartal"
+    ],
+    "beats": 12,
+    "divisions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3",
+      "0",
+      "4"
+    ],
+    "theka": "Dha Dha | Din Ta | Kita Dha | Din Ta | Tita Kata | Gadi Gena",
+    "family": "dhrupad",
+    "suitableForms": [
+      "Dhrupad",
+      "Dhamar",
+      "Pakhawaj"
+    ],
+    "suitableLaya": [
+      "Vilambit",
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 90,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Pakhawaj articulation and bol spelling vary.",
+    "provenance": [
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "deepchandi",
+    "name": "Deepchandi",
+    "aliases": [
+      "Chanchar"
+    ],
+    "beats": 14,
+    "divisions": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": "Dha Dhin - | Dha Dha Tin - | Ta Tin - | Dha Dha Dhin -",
+    "family": "light-classical",
+    "suitableForms": [
+      "Thumri",
+      "Ghazal",
+      "Bhajan"
+    ],
+    "suitableLaya": [
+      "Vilambit",
+      "Madhya"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 88,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Theka variants should be surfaced rather than flattened.",
+    "provenance": [
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "tilwada",
+    "name": "Tilwada",
+    "aliases": [
+      "Tilwara"
+    ],
+    "beats": 16,
+    "divisions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": "Dha Tirakita Dhin Dhin | Dha Dha Tin Tin | Ta Tirakita Dhin Dhin | Dha Dha Dhin Dhin",
+    "family": "khayal",
+    "suitableForms": [
+      "Vilambit Khayal"
+    ],
+    "suitableLaya": [
+      "Vilambit"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 88,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "A vilambit 16-matra cycle with lineage variants.",
+    "provenance": [
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "jhumra",
+    "name": "Jhumra",
+    "aliases": [
+      "Jhoomra"
+    ],
+    "beats": 14,
+    "divisions": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": "Dhin - Dha | Tirakita Dhin Dhin Dha Ge | Tirakita Tin - | Ta Tirakita Dhin Dhin Dha Ge",
+    "family": "khayal",
+    "suitableForms": [
+      "Vilambit Khayal"
+    ],
+    "suitableLaya": [
+      "Vilambit"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 84,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Bol grouping and realisation are variant-sensitive.",
+    "provenance": [
+      "abgmvm-curriculum"
+    ]
+  },
+  {
+    "id": "addha",
+    "name": "Addha",
+    "aliases": [
+      "Addha Teentaal"
+    ],
+    "beats": 16,
+    "divisions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": "Dha Dhin - Dha | Dha Tin - Ta | Ta Dhin - Dha | Dha Tin - Ta",
+    "family": "light-classical",
+    "suitableForms": [
+      "Thumri",
+      "Ghazal",
+      "Light classical"
+    ],
+    "suitableLaya": [
+      "Madhya"
+    ],
+    "generationReady": true,
+    "dataCompleteness": 80,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Commonly treated as a swinging variant of the 16-matra field.",
+    "provenance": [
+      "legacy-knowledge-base"
+    ]
+  },
+  {
+    "id": "tivra",
+    "name": "Tivra",
+    "aliases": [
+      "Teevra"
+    ],
+    "beats": 7,
+    "divisions": [
+      3,
+      2,
+      2
+    ],
+    "marks": [
+      "X",
+      "2",
+      "3"
+    ],
+    "theka": "Dha Dhin Ta | Tit Kata | Gadi Gena",
+    "family": "dhrupad",
+    "suitableForms": [
+      "Dhrupad",
+      "Pakhawaj"
+    ],
+    "suitableLaya": [
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": false,
+    "dataCompleteness": 68,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Held in the catalogue; automatic theka rendering is disabled pending review.",
+    "provenance": [
+      "historical-performance-catalogue"
+    ]
+  },
+  {
+    "id": "sultal",
+    "name": "Sultal",
+    "aliases": [
+      "Sooltal",
+      "Sul Taal"
+    ],
+    "beats": 10,
+    "divisions": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3",
+      "0"
+    ],
+    "theka": "Dha Dha | Din Ta | Kita Dha | Tin Ta | Tita Kata Gadi Gena",
+    "family": "dhrupad",
+    "suitableForms": [
+      "Dhrupad",
+      "Pakhawaj"
+    ],
+    "suitableLaya": [
+      "Madhya",
+      "Drut"
+    ],
+    "generationReady": false,
+    "dataCompleteness": 65,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Catalogue record; exact bol segmentation needs expert confirmation.",
+    "provenance": [
+      "historical-performance-catalogue"
+    ]
+  },
+  {
+    "id": "ada-chautal",
+    "name": "Ada Chautal",
+    "aliases": [
+      "Ada Choutal"
+    ],
+    "beats": 14,
+    "divisions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3",
+      "0",
+      "4",
+      "0"
+    ],
+    "theka": null,
+    "family": "dhrupad",
+    "suitableForms": [
+      "Dhrupad",
+      "Khayal"
+    ],
+    "suitableLaya": [
+      "Vilambit",
+      "Madhya"
+    ],
+    "generationReady": false,
+    "dataCompleteness": 55,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Cycle structure retained; theka intentionally not invented.",
+    "provenance": [
+      "historical-performance-catalogue"
+    ]
+  },
+  {
+    "id": "pancham-sawari",
+    "name": "Pancham Sawari",
+    "aliases": [
+      "Pancham Savari"
+    ],
+    "beats": 15,
+    "divisions": [
+      3,
+      4,
+      4,
+      4
+    ],
+    "marks": [
+      "X",
+      "2",
+      "0",
+      "3"
+    ],
+    "theka": null,
+    "family": "general",
+    "suitableForms": [
+      "Instrumental",
+      "Khayal"
+    ],
+    "suitableLaya": [
+      "Madhya"
+    ],
+    "generationReady": false,
+    "dataCompleteness": 52,
+    "verification": "variant-sensitive",
+    "reviewStatus": "needs-expert-review",
+    "note": "Structure is represented, but automatic theka generation is disabled.",
+    "provenance": [
+      "historical-performance-catalogue"
+    ]
+  },
+  {
+    "id": "basant-taal",
+    "name": "Basant Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "matta-taal",
+    "name": "Matta Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "shikhar-taal",
+    "name": "Shikhar Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "rudra-taal",
+    "name": "Rudra Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "brahma-taal",
+    "name": "Brahma Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "lakshmi-taal",
+    "name": "Lakshmi Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "gaj-jhampa",
+    "name": "Gaj Jhampa",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "farodast",
+    "name": "Farodast",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "char-taal-ki-sawari",
+    "name": "Char Taal Ki Sawari",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "sawari-taal",
+    "name": "Sawari Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "neel-taal",
+    "name": "Neel Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "ganesh-taal",
+    "name": "Ganesh Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "kumbha-taal",
+    "name": "Kumbha Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "mani-taal",
+    "name": "Mani Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "vishnu-taal",
+    "name": "Vishnu Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  },
+  {
+    "id": "ashtamangal-taal",
+    "name": "Ashtamangal Taal",
+    "aliases": [],
+    "beats": 0,
+    "divisions": [],
+    "marks": [],
+    "theka": null,
+    "family": "historical",
+    "suitableForms": [],
+    "suitableLaya": [],
+    "generationReady": false,
+    "dataCompleteness": 18,
+    "verification": "catalogue-only",
+    "reviewStatus": "catalogue-only",
+    "note": "Indexed for discovery. Cycle structure and performance variants are deliberately not bundled until a cited record is reviewed.",
+    "provenance": [
+      "maqam-practical-taal-expansion-register"
+    ]
+  }
+]
