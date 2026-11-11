@@ -1,0 +1,19 @@
+# Backend Docker build context is the repository root.
+.git
+.github
+web
+docs
+tests
+scripts
+__pycache__
+**/__pycache__
+**/*.pyc
+.pytest_cache
+.venv
+.env
+.env.*
+*.pem
+*.key
+outputs
+node_modules
+*.zip

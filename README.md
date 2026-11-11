@@ -8,6 +8,19 @@
 
 ![MAQAM architecture](docs/assets/architecture.svg)
 
+[![Portfolio checks](https://github.com/iharkeerat/maqam-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/iharkeerat/maqam-ai/actions/workflows/ci.yml)  [Documentation](docs/START_HERE.md) · [Run the demo](docs/GETTING_STARTED.md) · [Research evidence](docs/RESULTS_AND_LIMITATIONS.md) · [MIT License](LICENSE)
+
+## Start here — choose your path
+
+| I'm a… | Read this first | What you'll find |
+|---|---|---|
+| **Researcher / professor** | [2-minute reviewer guide](docs/REVIEWER_GUIDE.md) | Question, technical approach, verified evidence, and limitations |
+| **Student / first-time visitor** | [Getting started](docs/GETTING_STARTED.md) | Installation, guided demo, web interface and troubleshooting |
+| **Developer** | [Codebase map](docs/REPO_MAP.md) · [Architecture](docs/ARCHITECTURE.md) | Main files, API, exact DP, parser and tests |
+| **Research evaluator** | [Formal method](docs/FORMAL_METHOD.md) · [Verification](docs/VERIFICATION.md) | Reproducible formal claims versus unvalidated musical claims |
+
+**What you can verify in about two minutes:** run `python portfolio_smoke_demo.py` after installing Python dependencies. It tests a *constructed* three-chord example. A real, expert-validated lyric-alignment benchmark is **not** included.
+
 ## What is MAQAM?
 
 MAQAM is a software workbench exploring how computational methods can assist with **poetry, symbolic music, notation, and research reproducibility**. It includes a web interface, a Python API, music-knowledge representations, and a deliberately small **formal alignment lab** for testing exact optimization against simple search strategies.

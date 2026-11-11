@@ -1,12 +1,15 @@
 {
-  "selectedBy": "development split only: primaryTop3Recall, then macroF1PrimaryLabel, then calibration",
+  "selectedBy": "Development split only: primaryTop3Recall, then macroF1PrimaryLabel, then calibration",
   "selectedModel": "hybrid-char-plus-rules-v1",
   "availableArtifacts": {
     "textOnly": "models/raag_text_baseline_v1.joblib",
-    "context": "models/raag_context_baseline_v1.joblib",
     "rules": "models/raag_rule_baseline_v1.joblib",
     "taal": "models/taal_text_baseline_v1.joblib"
   },
+  "notDistributedArtifacts": [
+    "models/raag_context_baseline_v1.joblib"
+  ],
+  "runtimeNote": "The public backend uses only the three shipped baseline artifacts; the context-model path was legacy historical metadata and is not present in this curated repository.",
   "temperature": 0.2,
   "expertValidated": false
 }
