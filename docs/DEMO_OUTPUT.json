@@ -1,0 +1,37 @@
+{
+  "demo_type": "constructed_synthetic_score_formal_api_smoke",
+  "api_health": {
+    "status": "ok",
+    "engine": "maqam-research-and-synthesis-v3"
+  },
+  "original_notated_chords": 3,
+  "normalized_events_after_tie_collapse": 2,
+  "formal_chord_start_indices": [
+    0,
+    2
+  ],
+  "identical_result_if_lyrics_removed": true,
+  "private_lyric_text_absent_from_response": true,
+  "unsupported_dtd_rejected_http": 422,
+  "formal_identifiability": {
+    "model": "UNIFORM_UNTARGETED_FORMAL_SEGMENTATION",
+    "number_of_equal_cost_optimal_paths": "1",
+    "unique_formal_path": true,
+    "number_of_syllable_starts_with_multiple_possible_positions": 0,
+    "first_ten_possible_original_chord_index_ranges": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "all_feasible_paths_have_same_cost": true,
+    "formal_minimum_cost": 0,
+    "evidence_limitation": "Counts alternative exact-cost formal partitions only; not confidence, probability, human lyric alignment, or sung timing"
+  },
+  "real_world_alignment_accuracy_evaluated": false,
+  "note": "This shows parser, formal DP, and safe API behaviour; NOT correctness against real music."
+}

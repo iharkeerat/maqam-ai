@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760">
+  <rect width="1600" height="760" fill="#0d0f0f"/>
+  <style>
+    .box{fill:#171918;stroke:#5a544b;stroke-width:2}.accent{fill:#df5a35}.title{fill:#f1eee8;font:700 28px Arial}.label{fill:#bdb6ab;font:16px Arial}.small{fill:#8e877d;font:13px monospace}.arrow{stroke:#df5a35;stroke-width:3;fill:none;marker-end:url(#m)}
+  </style>
+  <defs><marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#df5a35"/></marker></defs>
+  <text x="70" y="62" class="title">MAQAM AI v10 — research and product architecture</text>
+  <text x="70" y="92" class="small">Language interpretation is separated from statistical ranking, musical knowledge, validation and human judgement.</text>
+  <g transform="translate(70 150)"><rect class="box" width="230" height="130"/><rect class="accent" width="8" height="130"/><text x="30" y="48" class="title">Poetry</text><text x="30" y="78" class="label">Punjabi · Hindi · Urdu</text><text x="30" y="103" class="small">script / form / cadence</text></g>
+  <g transform="translate(365 150)"><rect class="box" width="250" height="130"/><text x="25" y="43" class="title">Semantic layer</text><text x="25" y="75" class="label">Gemini structured JSON</text><text x="25" y="101" class="small">offline fallback available</text></g>
+  <g transform="translate(680 130)"><rect class="box" width="250" height="170"/><text x="25" y="43" class="title">ML baselines</text><text x="25" y="75" class="label">word + char TF-IDF</text><text x="25" y="102" class="label">logistic ranking</text><text x="25" y="129" class="label">calibration + ablations</text></g>
+  <g transform="translate(995 130)"><rect class="box" width="250" height="170"/><text x="25" y="43" class="title">Knowledge engine</text><text x="25" y="75" class="label">Raag / Taal records</text><text x="25" y="102" class="label">provenance / readiness</text><text x="25" y="129" class="label">historical safeguards</text></g>
+  <g transform="translate(1310 150)"><rect class="box" width="220" height="130"/><text x="25" y="43" class="title">Ranked sets</text><text x="25" y="75" class="label">Raag Top-k</text><text x="25" y="101" class="label">Taal Top-k</text></g>
+  <path class="arrow" d="M300 215H365"/><path class="arrow" d="M615 215H680"/><path class="arrow" d="M930 215H995"/><path class="arrow" d="M1245 215H1310"/>
+  <g transform="translate(250 415)"><rect class="box" width="270" height="150"/><text x="25" y="45" class="title">Notation generator</text><text x="25" y="80" class="label">editable Bhatkhande events</text><text x="25" y="108" class="small">constraint locks + beam/rule path</text></g>
+  <g transform="translate(665 415)"><rect class="box" width="270" height="150"/><text x="25" y="45" class="title">Grammar audit</text><text x="25" y="80" class="label">Swar · Pakad · Nyas</text><text x="25" y="108" class="small">Taal / ornament / Sam checks</text></g>
+  <g transform="translate(1080 415)"><rect class="box" width="270" height="150"/><text x="25" y="45" class="title">Human decision</text><text x="25" y="80" class="label">accept · override · review</text><text x="25" y="108" class="small">expert CSV evaluation path</text></g>
+  <path class="arrow" d="M1420 280C1420 350 385 335 385 415"/><path class="arrow" d="M520 490H665"/><path class="arrow" d="M935 490H1080"/>
+  <g transform="translate(470 635)"><rect class="box" width="260" height="80"/><text x="25" y="35" class="title">Audio study</text><text x="25" y="61" class="small">Web Audio + NumPy WAV</text></g>
+  <g transform="translate(870 635)"><rect class="box" width="260" height="80"/><text x="25" y="35" class="title">Research ledger</text><text x="25" y="61" class="small">metrics / calibration / errors</text></g>
+  <path class="arrow" d="M800 565C800 610 600 595 600 635"/><path class="arrow" d="M1215 565C1215 610 1000 595 1000 635"/>
+</svg>

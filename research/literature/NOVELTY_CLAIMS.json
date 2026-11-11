@@ -1,0 +1,205 @@
+{
+  "policy_version": "v6",
+  "scope_note": "Decisions are evidence-sensitive and provisional; do not promote blocked claims.",
+  "claims": [
+    {
+      "id": "FIRST_LYRICS_RAAG",
+      "claim": "First poetry/lyrics emotion-to-Raag recommendation",
+      "decision": "BLOCK_PRIOR_ART",
+      "related_prior_work": [
+        "mandlik2023"
+      ],
+      "internal_evidence": [],
+      "reason": "A 2023 survey/proposal explicitly describes the workflow."
+    },
+    {
+      "id": "FIRST_SOUTH_ASIAN_LLM_BENCHMARK",
+      "claim": "First assessment of top LLMs for South Asian music",
+      "decision": "BLOCK_PRIOR_ART",
+      "related_prior_work": [
+        "kader2026"
+      ],
+      "internal_evidence": [],
+      "reason": "A June 2026 preprint evaluated 33 models on South Asian music tasks; distinct questions do not restore broad first claim."
+    },
+    {
+      "id": "SHORTCUT_INVENTION",
+      "claim": "Discovered shortcut learning as a new phenomenon",
+      "decision": "BLOCK_PRIOR_ART",
+      "related_prior_work": [
+        "geirhos2020",
+        "mccoy2019"
+      ],
+      "internal_evidence": [],
+      "reason": "Shortcut learning and heuristic exploitation are established."
+    },
+    {
+      "id": "FIRST_COUNTERFACTUAL_TEST",
+      "claim": "Invented counterfactual robustness testing",
+      "decision": "BLOCK_PRIOR_ART",
+      "related_prior_work": [
+        "ribeiro2020",
+        "gardner2020",
+        "wang2021"
+      ],
+      "internal_evidence": [],
+      "reason": "Established behavioural, contrast, and counterfactual testing."
+    },
+    {
+      "id": "FIRST_EXPLAINABLE_RAGA",
+      "claim": "First explainable AI for Raag",
+      "decision": "BLOCK_PRIOR_ART",
+      "related_prior_work": [
+        "singh2024"
+      ],
+      "internal_evidence": [],
+      "reason": "Explainable audio-based Raag identification already published as a preprint; narrower task claim unverified."
+    },
+    {
+      "id": "FIRST_INDIC_NLP",
+      "claim": "First multilingual Indic text model/benchmark",
+      "decision": "BLOCK_PRIOR_ART",
+      "related_prior_work": [
+        "kakwani2020",
+        "doddapaneni2023"
+      ],
+      "internal_evidence": [],
+      "reason": "Indic NLP models and multilingual benchmarks are established."
+    },
+    {
+      "id": "FIRST_UNIFIED_SYSTEM",
+      "claim": "World-first system combining all listed features",
+      "decision": "BLOCK_NOT_ESTABLISHED",
+      "related_prior_work": [
+        "mandlik2023",
+        "kader2026",
+        "singh2024"
+      ],
+      "internal_evidence": [],
+      "reason": "An exhaustive novelty assertion cannot be supported by this targeted search."
+    },
+    {
+      "id": "NEW_EXPLANATION_METHOD",
+      "claim": "New faithful-explanation algorithm",
+      "decision": "BLOCK_NOT_ESTABLISHED",
+      "related_prior_work": [
+        "jacovi2020",
+        "lyu2024"
+      ],
+      "internal_evidence": [],
+      "reason": "Existing coded traces lack mechanism-level faithfulness comparison."
+    },
+    {
+      "id": "NOVEL_SHORTCUT_MITIGATION",
+      "claim": "New shortcut mitigation algorithm",
+      "decision": "BLOCK_PRIOR_ART",
+      "related_prior_work": [
+        "wang2021"
+      ],
+      "internal_evidence": [],
+      "reason": "Balanced metadata is an instance of known counterfactual controls, not shown to be new."
+    },
+    {
+      "id": "BETTER_THAN_CHATGPT",
+      "claim": "Superior to GPT/Gemini/Suno or commercial music models",
+      "decision": "BLOCK_NO_COMPARISON",
+      "related_prior_work": [
+        "kader2026"
+      ],
+      "internal_evidence": [],
+      "reason": "No hosted-LLM outputs or matched task comparison in repository."
+    },
+    {
+      "id": "MUSICAL_CORRECTNESS",
+      "claim": "Musically correct Raag recommendation on authentic poetry",
+      "decision": "BLOCK_NO_EXTERNAL_VALIDATION",
+      "related_prior_work": [
+        "singh2024"
+      ],
+      "internal_evidence": [],
+      "reason": "No independent human ratings or genuine Raag labels."
+    },
+    {
+      "id": "MULTILINGUAL_SEMANTIC_TRANSFER",
+      "claim": "Proven robust semantic understanding across scripts",
+      "decision": "BLOCK_NO_VALIDATION",
+      "related_prior_work": [
+        "doddapaneni2023"
+      ],
+      "internal_evidence": [],
+      "reason": "Synthetic script-mode outputs are not parallel-translation pairs."
+    },
+    {
+      "id": "CONFIRMATORY_FINDING",
+      "claim": "New untouched holdout confirms shortcut behavior",
+      "decision": "BLOCK_REUSED_HOLDOUT",
+      "related_prior_work": [
+        "balloccu2024"
+      ],
+      "internal_evidence": [],
+      "reason": "The same small synthetic test split was reused across upgrades."
+    },
+    {
+      "id": "PATENTABLE_NOVELTY",
+      "claim": "Patentable, unprecedented methodology",
+      "decision": "BLOCK_NOT_ESTABLISHED",
+      "related_prior_work": [
+        "geirhos2020",
+        "ribeiro2020"
+      ],
+      "internal_evidence": [],
+      "reason": "No patent/novelty legal search, technical comparison, or new-method demonstration."
+    },
+    {
+      "id": "REPRO_CASE",
+      "claim": "Reproducible computational engineering case study",
+      "decision": "SUPPORT_AS_ENGINEERING",
+      "related_prior_work": [
+        "geirhos2020",
+        "ribeiro2020"
+      ],
+      "internal_evidence": [
+        "reports/research/benchmark_v5/experiment_summary_v5.json",
+        "portfolio/SURF_2027/RESEARCH_REPORT.md"
+      ],
+      "reason": "Existing scripts and synthetic results support a transparent case study, not fundamental methodological novelty."
+    },
+    {
+      "id": "METADATA_SHORTCUT",
+      "claim": "Time-token intervention changes metadata-driven model predictions in synthetic setting",
+      "decision": "SUPPORT_SYNTHETIC_ONLY",
+      "related_prior_work": [
+        "geirhos2020",
+        "wang2021"
+      ],
+      "internal_evidence": [
+        "reports/research/benchmark_v4/frozen_prediction_comparisons_v4.csv"
+      ],
+      "reason": "Descriptive effect under known generator confounding; not a novel phenomenon nor independent real-world result."
+    },
+    {
+      "id": "COMPARABLE_BASELINES",
+      "claim": "Locally reproducible baseline comparison with eight methods",
+      "decision": "SUPPORT_SYNTHETIC_ONLY",
+      "related_prior_work": [
+        "ribeiro2020"
+      ],
+      "internal_evidence": [
+        "reports/research/benchmark_v5/experiment_summary_v5.json"
+      ],
+      "reason": "Internal exploratory comparison against eight local methods, not state-of-the-art hosted LLM evaluation."
+    },
+    {
+      "id": "POTENTIAL_EVAL_GAP",
+      "claim": "Proposed cross-script music-rule-plus-text robustness research question",
+      "decision": "OPEN_HYPOTHESIS",
+      "related_prior_work": [
+        "kader2026",
+        "doddapaneni2023",
+        "mandlik2023"
+      ],
+      "internal_evidence": [],
+      "reason": "Combination may merit study; cannot assert absence of prior work or generalizable novelty."
+    }
+  ]
+}

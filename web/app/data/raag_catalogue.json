@@ -1,0 +1,1002 @@
+[
+  {
+    "ordinal": 1,
+    "id": "bhairav",
+    "name": "Bhairav",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Bhairav",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 2,
+    "id": "bhairavi",
+    "name": "Bhairavi",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Bhairavi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 3,
+    "id": "yaman",
+    "name": "Yaman",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kalyan",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 4,
+    "id": "alhaiya-bilawal",
+    "name": "Alhaiya Bilawal",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Bilawal",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 5,
+    "id": "kafi",
+    "name": "Kafi",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kafi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 6,
+    "id": "asavari",
+    "name": "Asavari",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Asavari",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 7,
+    "id": "khamaj",
+    "name": "Khamaj",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Khamaj",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 8,
+    "id": "marwa",
+    "name": "Marwa",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Marwa",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 9,
+    "id": "purvi",
+    "name": "Purvi",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Purvi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 10,
+    "id": "todi",
+    "name": "Todi",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Todi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 11,
+    "id": "darbari-kanada",
+    "name": "Darbari Kanada",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Asavari",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 12,
+    "id": "malkauns",
+    "name": "Malkauns",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Bhairavi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 13,
+    "id": "bhimpalasi",
+    "name": "Bhimpalasi",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kafi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 14,
+    "id": "bihag",
+    "name": "Bihag",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Bilawal",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 15,
+    "id": "desh",
+    "name": "Desh",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Khamaj",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 16,
+    "id": "bageshree",
+    "name": "Bageshree",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kafi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 17,
+    "id": "ahir-bhairav",
+    "name": "Ahir Bhairav",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Bhairav",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 18,
+    "id": "shivaranjani",
+    "name": "Shivaranjani",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kafi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 19,
+    "id": "tilak-kamod",
+    "name": "Tilak Kamod",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Khamaj",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 20,
+    "id": "shuddh-kalyan",
+    "name": "Shuddh Kalyan",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kalyan",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 21,
+    "id": "hamir",
+    "name": "Hamir",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kalyan",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 22,
+    "id": "chhayanat",
+    "name": "Chhayanat",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kalyan",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 23,
+    "id": "jayjaywanti",
+    "name": "Jayjaywanti",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Khamaj",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 24,
+    "id": "gaud-sarang",
+    "name": "Gaud Sarang",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kalyan",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 25,
+    "id": "shuddha-sarang",
+    "name": "Shuddha Sarang",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kafi",
+    "dataCompleteness": 82
+  },
+  {
+    "ordinal": 26,
+    "id": "durga",
+    "name": "Durga",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Bilawal",
+    "dataCompleteness": 74
+  },
+  {
+    "ordinal": 27,
+    "id": "bhupali",
+    "name": "Bhupali",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kalyan",
+    "dataCompleteness": 74
+  },
+  {
+    "ordinal": 28,
+    "id": "pilu",
+    "name": "Pilu",
+    "tier": "generation-ready",
+    "verification": "legacy-master-seed",
+    "generationReady": true,
+    "thaat": "Kafi",
+    "dataCompleteness": 74
+  },
+  {
+    "ordinal": 29,
+    "id": "jaunpuri",
+    "name": "Jaunpuri",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 30,
+    "id": "kedar",
+    "name": "Kedar",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 31,
+    "id": "basant",
+    "name": "Basant",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 32,
+    "id": "bahar",
+    "name": "Bahar",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 33,
+    "id": "miyan-ki-malhar",
+    "name": "Miyan ki Malhar",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 34,
+    "id": "megh",
+    "name": "Megh",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 35,
+    "id": "megh-malhar",
+    "name": "Megh Malhar",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 36,
+    "id": "brindavani-sarang",
+    "name": "Brindavani Sarang",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 37,
+    "id": "madhmad-sarang",
+    "name": "Madhmad Sarang",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 38,
+    "id": "miyan-ki-todi",
+    "name": "Miyan ki Todi",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 39,
+    "id": "gujari-todi",
+    "name": "Gujari Todi",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 40,
+    "id": "multani",
+    "name": "Multani",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 41,
+    "id": "puriya",
+    "name": "Puriya",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 42,
+    "id": "puriya-dhanashree",
+    "name": "Puriya Dhanashree",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 43,
+    "id": "sohini",
+    "name": "Sohini",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 44,
+    "id": "lalit",
+    "name": "Lalit",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 45,
+    "id": "bibhas",
+    "name": "Bibhas",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 46,
+    "id": "ramkali",
+    "name": "Ramkali",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 47,
+    "id": "jogiya",
+    "name": "Jogiya",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 48,
+    "id": "nat-bhairav",
+    "name": "Nat Bhairav",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 49,
+    "id": "anand-bhairav",
+    "name": "Anand Bhairav",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 50,
+    "id": "bairagi-bhairav",
+    "name": "Bairagi Bhairav",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 51,
+    "id": "jog",
+    "name": "Jog",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 52,
+    "id": "chandrakauns",
+    "name": "Chandrakauns",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 53,
+    "id": "nand",
+    "name": "Nand",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 54,
+    "id": "hamsadhwani",
+    "name": "Hamsadhwani",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 55,
+    "id": "shankara",
+    "name": "Shankara",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 56,
+    "id": "kamod",
+    "name": "Kamod",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 57,
+    "id": "gorakh-kalyan",
+    "name": "Gorakh Kalyan",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 58,
+    "id": "rageshree",
+    "name": "Rageshree",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 59,
+    "id": "patdeep",
+    "name": "Patdeep",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 60,
+    "id": "madhuwanti",
+    "name": "Madhuwanti",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 61,
+    "id": "kirwani",
+    "name": "Kirwani",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 62,
+    "id": "charukeshi",
+    "name": "Charukeshi",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 63,
+    "id": "kalavati",
+    "name": "Kalavati",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 64,
+    "id": "jansammohini",
+    "name": "Jansammohini",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 65,
+    "id": "mohan-kalyan",
+    "name": "Mohan Kalyan",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 66,
+    "id": "hindol",
+    "name": "Hindol",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 67,
+    "id": "shree",
+    "name": "Shree",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 68,
+    "id": "shree-kalyan",
+    "name": "Shree Kalyan",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 69,
+    "id": "basant-mukhari",
+    "name": "Basant Mukhari",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 70,
+    "id": "lalit-pancham",
+    "name": "Lalit Pancham",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 71,
+    "id": "adana",
+    "name": "Adana",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 72,
+    "id": "nayaki-kanada",
+    "name": "Nayaki Kanada",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 73,
+    "id": "kaunsi-kanada",
+    "name": "Kaunsi Kanada",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 74,
+    "id": "shahana-kanada",
+    "name": "Shahana Kanada",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 75,
+    "id": "sughrai-kanada",
+    "name": "Sughrai Kanada",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 76,
+    "id": "abhogi",
+    "name": "Abhogi",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 77,
+    "id": "abhogi-kanada",
+    "name": "Abhogi Kanada",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 78,
+    "id": "darbari-todi",
+    "name": "Darbari Todi",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 79,
+    "id": "kausi-kanhra",
+    "name": "Kausi Kanhra",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 80,
+    "id": "sahana",
+    "name": "Sahana",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 81,
+    "id": "gara",
+    "name": "Gara",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 82,
+    "id": "sindhura",
+    "name": "Sindhura",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 83,
+    "id": "jhinjhoti",
+    "name": "Jhinjhoti",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 84,
+    "id": "khamaj-bahar",
+    "name": "Khamaj Bahar",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 85,
+    "id": "nat-kamod",
+    "name": "Nat Kamod",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 86,
+    "id": "saraswati",
+    "name": "Saraswati",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 87,
+    "id": "hemant",
+    "name": "Hemant",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 88,
+    "id": "pahadi",
+    "name": "Pahadi",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 89,
+    "id": "mand",
+    "name": "Mand",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 90,
+    "id": "barwa",
+    "name": "Barwa",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 91,
+    "id": "zila-kafi",
+    "name": "Zila Kafi",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 92,
+    "id": "kukubh-bilawal",
+    "name": "Kukubh Bilawal",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 93,
+    "id": "devagiri-bilawal",
+    "name": "Devagiri Bilawal",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 94,
+    "id": "shukla-bilawal",
+    "name": "Shukla Bilawal",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 95,
+    "id": "yamani-bilawal",
+    "name": "Yamani Bilawal",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 96,
+    "id": "patmanjari",
+    "name": "Patmanjari",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 97,
+    "id": "suha-sughrai",
+    "name": "Suha Sughrai",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 98,
+    "id": "lankadahan-sarang",
+    "name": "Lankadahan Sarang",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 99,
+    "id": "samant-sarang",
+    "name": "Samant Sarang",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  },
+  {
+    "ordinal": 100,
+    "id": "sur-malhar",
+    "name": "Sur Malhar",
+    "tier": "catalogue-only",
+    "verification": "catalogue-only",
+    "generationReady": false,
+    "thaat": null,
+    "dataCompleteness": 15
+  }
+]

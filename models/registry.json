@@ -1,0 +1,12 @@
+{
+  "selectedBy": "development split only: primaryTop3Recall, then macroF1PrimaryLabel, then calibration",
+  "selectedModel": "hybrid-char-plus-rules-v1",
+  "availableArtifacts": {
+    "textOnly": "models/raag_text_baseline_v1.joblib",
+    "context": "models/raag_context_baseline_v1.joblib",
+    "rules": "models/raag_rule_baseline_v1.joblib",
+    "taal": "models/taal_text_baseline_v1.joblib"
+  },
+  "temperature": 0.2,
+  "expertValidated": false
+}

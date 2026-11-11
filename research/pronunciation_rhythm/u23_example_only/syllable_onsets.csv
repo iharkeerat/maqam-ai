@@ -1,0 +1,4 @@
+recording_id,cycle_id,event_id,onset_seconds,cycle_start_seconds,beat_seconds,beat_index,cycle_beats
+demo_recording,cycle1,example1,0.03,0.0,0.5,1,16
+demo_recording,cycle1,example2,0.54,0.0,0.5,2,16
+demo_recording,cycle1,example3,1.01,0.0,0.5,3,16

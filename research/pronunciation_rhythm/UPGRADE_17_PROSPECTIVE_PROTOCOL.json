@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "created": "2026-10-24",
+  "title": "Prospective evidence-dependent Hindi/Punjabi pronunciation-to-rhythm alignment test",
+  "status": "DESIGN_ONLY_NOT_PREREGISTERED_EXTERNALLY",
+  "evidence_gate": {
+    "independent_pronunciation_alternatives_required": true,
+    "syllable_boundary_reference_required": true,
+    "rights_review_required": true,
+    "not_ready": "Missing genuine verified pronunciation alternatives and independent syllable boundaries"
+  },
+  "primary_question": "Under independently established phonological candidate sets, how often does top-1 early commitment report formal infeasibility when an independent reference considers an alternative candidate admissible?",
+  "candidate_baselines": [
+    "one_best_pronunciation_then_exact_align",
+    "top_k_then_exact_align",
+    "all_candidates_then_exact_align",
+    "exact_composed_dp_equivalent_candidate_space",
+    "budget_matched_search"
+  ],
+  "primary_measure": "false_infeasibility_conditioned_on_oracle_feasibility",
+  "secondary_measures": [
+    "candidate_recall_against_independent_pronunciation_source",
+    "verified_syllable_alignment_agreement",
+    "search_expansions",
+    "wall_clock_time",
+    "budgeted_coverage"
+  ],
+  "blocking_design_rule": "The evaluator and its gold labels cannot be generated from the same phonological hypothesis under test",
+  "statistical_plan": "Report exact numerators and denominators, confidence intervals with word or source clusters when applicable, and no confirmatory claims if external benchmarks are insufficient",
+  "current_external_gold_sample_size": 0,
+  "current_status": "BLOCKED_NO_EXTERNAL_REFERENCE_DATA",
+  "originality_claim": "NONE_PENDING_FULL_TEXT_PRIOR_ART_AND_PROSPECTIVE_STUDY"
+}
