@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-10-24",
+  "access_status": "METADATA_AND_README_WEB_INSPECTED; CORPUS_BYTES_NOT_DOWNLOADED",
+  "record_url": "https://zenodo.org/records/21904267",
+  "record_doi": "10.5281/zenodo.21904267",
+  "published_record_description": {
+    "advertised_lyric_sargam_pairs": 1026,
+    "advertised_has_syllable_alignment": true,
+    "advertised_languages": [
+      "hi",
+      "sa",
+      "bn"
+    ],
+    "taal_included": false
+  },
+  "downloadable_readme_observations": {
+    "release": "SargamBench reconstructed release",
+    "source": "https://zenodo.org/records/21904267/files/README.md?download=1",
+    "reconstructed": true,
+    "states_lyric_fields_blank": true,
+    "notes": "README calls for recovering original annotation source before asserting lyric-conditioned dataset"
+  },
+  "downloadable_manifest_observations": {
+    "source": "https://zenodo.org/records/21904267/files/manifest.json?download=1",
+    "release": "SargamBench_reconstructed_v1",
+    "base_rows": 1026,
+    "missing_lyrics": 1026,
+    "source_rows": 1033,
+    "reconstructed_rows": 1026,
+    "original_train": 188,
+    "original_validation": 212,
+    "original_test": 626,
+    "augmented_total": 4878
+  },
+  "published_download_checksums": {
+    "pairs.csv": {
+      "md5": "cb8795c70503011e93f0416e1f35cdea"
+    },
+    "README.md": {
+      "md5": "8d6c7af25ba6e7921585bb1d421540eb"
+    },
+    "metadata.csv": {
+      "md5": "041e7ebcda59f1ca523f2d759bc3231c"
+    },
+    "manifest.json": {
+      "md5": "d21fc5cb1496ba26bf880682006bb54c"
+    }
+  },
+  "rights_status": "NOT_CONFIRMED_FROM_RIGHTS_SECTION",
+  "redistribution": "NOT_AUTHORIZED_BY_THIS_AUDIT",
+  "research_conclusion": "NO_GO: reconstructed release cannot be counted as verified token-level lyric-sargam gold unless original annotations recovered and independent annotation checks performed",
+  "download_attempts": [
+    {
+      "method": "container requests to Zenodo API/file endpoint",
+      "result": "DNS resolution failure"
+    },
+    {
+      "method": "container download service",
+      "result": "download failed"
+    },
+    {
+      "method": "web CSV download",
+      "result": "HTTP 429"
+    }
+  ]
+}

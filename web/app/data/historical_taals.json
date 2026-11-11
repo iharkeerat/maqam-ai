@@ -1,0 +1,4338 @@
+[
+  {
+    "id": "sr-deshi-001",
+    "ordinal": 1,
+    "registrySlot": 1,
+    "sourceOrdinal": null,
+    "canonicalName": "Tritiya",
+    "iast": "Tṛtīya",
+    "devanagari": "तृतीय",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-002",
+    "ordinal": 2,
+    "registrySlot": 2,
+    "sourceOrdinal": null,
+    "canonicalName": "Laya",
+    "iast": "Laya",
+    "devanagari": "लय",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-003",
+    "ordinal": 3,
+    "registrySlot": 3,
+    "sourceOrdinal": null,
+    "canonicalName": "Chaturtha",
+    "iast": "Caturtha",
+    "devanagari": "चतुर्थ",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-004",
+    "ordinal": 4,
+    "registrySlot": 4,
+    "sourceOrdinal": null,
+    "canonicalName": "Chanda",
+    "iast": "Chanda",
+    "devanagari": "छन्द",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-005",
+    "ordinal": 5,
+    "registrySlot": 5,
+    "sourceOrdinal": null,
+    "canonicalName": "Panchama",
+    "iast": "Pañcama",
+    "devanagari": "पञ्चम",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-006",
+    "ordinal": 6,
+    "registrySlot": 6,
+    "sourceOrdinal": null,
+    "canonicalName": "Chandra",
+    "iast": "Candra",
+    "devanagari": "चन्द्र",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-007",
+    "ordinal": 7,
+    "registrySlot": 7,
+    "sourceOrdinal": null,
+    "canonicalName": "Nissanka Lila",
+    "iast": "Niśśaṅka-līlā",
+    "devanagari": "निश्शङ्कलीला",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-008",
+    "ordinal": 8,
+    "registrySlot": 8,
+    "sourceOrdinal": null,
+    "canonicalName": "Gauri",
+    "iast": "Gaurī",
+    "devanagari": "गौरी",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-009",
+    "ordinal": 9,
+    "registrySlot": 9,
+    "sourceOrdinal": null,
+    "canonicalName": "Yati Lagna",
+    "iast": "Yati-lagna",
+    "devanagari": "यतिलग्न",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-010",
+    "ordinal": 10,
+    "registrySlot": 10,
+    "sourceOrdinal": null,
+    "canonicalName": "Sarasvati Kantabharana",
+    "iast": "Sarasvatī-kaṇṭhābharaṇa",
+    "devanagari": "सरस्वतीकण्ठाभरण",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-011",
+    "ordinal": 11,
+    "registrySlot": 11,
+    "sourceOrdinal": null,
+    "canonicalName": "Varna",
+    "iast": "Varṇa",
+    "devanagari": "वर्ण",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-012",
+    "ordinal": 12,
+    "registrySlot": 12,
+    "sourceOrdinal": null,
+    "canonicalName": "Nissanka",
+    "iast": "Niśśaṅka",
+    "devanagari": "निश्शङ्क",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-013",
+    "ordinal": 13,
+    "registrySlot": 13,
+    "sourceOrdinal": null,
+    "canonicalName": "Gaja",
+    "iast": "Gaja",
+    "devanagari": "गज",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-014",
+    "ordinal": 14,
+    "registrySlot": 14,
+    "sourceOrdinal": null,
+    "canonicalName": "Sarngadeva",
+    "iast": "Śārṅgadeva",
+    "devanagari": "शार्ङ्गदेव",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-015",
+    "ordinal": 15,
+    "registrySlot": 15,
+    "sourceOrdinal": null,
+    "canonicalName": "Sarasa",
+    "iast": "Sarasa",
+    "devanagari": "सरस",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-016",
+    "ordinal": 16,
+    "registrySlot": 16,
+    "sourceOrdinal": null,
+    "canonicalName": "Simha",
+    "iast": "Siṃha",
+    "devanagari": "सिंह",
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Sangita Ratnakara historical Taal candidate",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Aṅga and Kriyā structure has not yet been transcribed from the primary edition."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "secondary-attested-name",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "spmvv-ma-music-history-secondary-list",
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Name appears in a university teaching summary of Śārṅgadeva’s Deśī Tālas. Source order, Aṅgas, Kriyās and duration remain unverified against the primary edition; no modern Theka is supplied."
+  },
+  {
+    "id": "sr-deshi-017",
+    "ordinal": 17,
+    "registrySlot": 17,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-018",
+    "ordinal": 18,
+    "registrySlot": 18,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-019",
+    "ordinal": 19,
+    "registrySlot": 19,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-020",
+    "ordinal": 20,
+    "registrySlot": 20,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-021",
+    "ordinal": 21,
+    "registrySlot": 21,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-022",
+    "ordinal": 22,
+    "registrySlot": 22,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-023",
+    "ordinal": 23,
+    "registrySlot": 23,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-024",
+    "ordinal": 24,
+    "registrySlot": 24,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-025",
+    "ordinal": 25,
+    "registrySlot": 25,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-026",
+    "ordinal": 26,
+    "registrySlot": 26,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-027",
+    "ordinal": 27,
+    "registrySlot": 27,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-028",
+    "ordinal": 28,
+    "registrySlot": 28,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-029",
+    "ordinal": 29,
+    "registrySlot": 29,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-030",
+    "ordinal": 30,
+    "registrySlot": 30,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-031",
+    "ordinal": 31,
+    "registrySlot": 31,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-032",
+    "ordinal": 32,
+    "registrySlot": 32,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-033",
+    "ordinal": 33,
+    "registrySlot": 33,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-034",
+    "ordinal": 34,
+    "registrySlot": 34,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-035",
+    "ordinal": 35,
+    "registrySlot": 35,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-036",
+    "ordinal": 36,
+    "registrySlot": 36,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-037",
+    "ordinal": 37,
+    "registrySlot": 37,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-038",
+    "ordinal": 38,
+    "registrySlot": 38,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-039",
+    "ordinal": 39,
+    "registrySlot": 39,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-040",
+    "ordinal": 40,
+    "registrySlot": 40,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-041",
+    "ordinal": 41,
+    "registrySlot": 41,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-042",
+    "ordinal": 42,
+    "registrySlot": 42,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-043",
+    "ordinal": 43,
+    "registrySlot": 43,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-044",
+    "ordinal": 44,
+    "registrySlot": 44,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-045",
+    "ordinal": 45,
+    "registrySlot": 45,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-046",
+    "ordinal": 46,
+    "registrySlot": 46,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-047",
+    "ordinal": 47,
+    "registrySlot": 47,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-048",
+    "ordinal": 48,
+    "registrySlot": 48,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-049",
+    "ordinal": 49,
+    "registrySlot": 49,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-050",
+    "ordinal": 50,
+    "registrySlot": 50,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-051",
+    "ordinal": 51,
+    "registrySlot": 51,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-052",
+    "ordinal": 52,
+    "registrySlot": 52,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-053",
+    "ordinal": 53,
+    "registrySlot": 53,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-054",
+    "ordinal": 54,
+    "registrySlot": 54,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-055",
+    "ordinal": 55,
+    "registrySlot": 55,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-056",
+    "ordinal": 56,
+    "registrySlot": 56,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-057",
+    "ordinal": 57,
+    "registrySlot": 57,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-058",
+    "ordinal": 58,
+    "registrySlot": 58,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-059",
+    "ordinal": 59,
+    "registrySlot": 59,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-060",
+    "ordinal": 60,
+    "registrySlot": 60,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-061",
+    "ordinal": 61,
+    "registrySlot": 61,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-062",
+    "ordinal": 62,
+    "registrySlot": 62,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-063",
+    "ordinal": 63,
+    "registrySlot": 63,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-064",
+    "ordinal": 64,
+    "registrySlot": 64,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-065",
+    "ordinal": 65,
+    "registrySlot": 65,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-066",
+    "ordinal": 66,
+    "registrySlot": 66,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-067",
+    "ordinal": 67,
+    "registrySlot": 67,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-068",
+    "ordinal": 68,
+    "registrySlot": 68,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-069",
+    "ordinal": 69,
+    "registrySlot": 69,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-070",
+    "ordinal": 70,
+    "registrySlot": 70,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-071",
+    "ordinal": 71,
+    "registrySlot": 71,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-072",
+    "ordinal": 72,
+    "registrySlot": 72,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-073",
+    "ordinal": 73,
+    "registrySlot": 73,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-074",
+    "ordinal": 74,
+    "registrySlot": 74,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-075",
+    "ordinal": 75,
+    "registrySlot": 75,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-076",
+    "ordinal": 76,
+    "registrySlot": 76,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-077",
+    "ordinal": 77,
+    "registrySlot": 77,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-078",
+    "ordinal": 78,
+    "registrySlot": 78,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-079",
+    "ordinal": 79,
+    "registrySlot": 79,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-080",
+    "ordinal": 80,
+    "registrySlot": 80,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-081",
+    "ordinal": 81,
+    "registrySlot": 81,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-082",
+    "ordinal": 82,
+    "registrySlot": 82,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-083",
+    "ordinal": 83,
+    "registrySlot": 83,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-084",
+    "ordinal": 84,
+    "registrySlot": 84,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-085",
+    "ordinal": 85,
+    "registrySlot": 85,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-086",
+    "ordinal": 86,
+    "registrySlot": 86,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-087",
+    "ordinal": 87,
+    "registrySlot": 87,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-088",
+    "ordinal": 88,
+    "registrySlot": 88,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-089",
+    "ordinal": 89,
+    "registrySlot": 89,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-090",
+    "ordinal": 90,
+    "registrySlot": 90,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-091",
+    "ordinal": 91,
+    "registrySlot": 91,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-092",
+    "ordinal": 92,
+    "registrySlot": 92,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-093",
+    "ordinal": 93,
+    "registrySlot": 93,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-094",
+    "ordinal": 94,
+    "registrySlot": 94,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-095",
+    "ordinal": 95,
+    "registrySlot": 95,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-096",
+    "ordinal": 96,
+    "registrySlot": 96,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-097",
+    "ordinal": 97,
+    "registrySlot": 97,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-098",
+    "ordinal": 98,
+    "registrySlot": 98,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-099",
+    "ordinal": 99,
+    "registrySlot": 99,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-100",
+    "ordinal": 100,
+    "registrySlot": 100,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-101",
+    "ordinal": 101,
+    "registrySlot": 101,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-102",
+    "ordinal": 102,
+    "registrySlot": 102,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-103",
+    "ordinal": 103,
+    "registrySlot": 103,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-104",
+    "ordinal": 104,
+    "registrySlot": 104,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-105",
+    "ordinal": 105,
+    "registrySlot": 105,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-106",
+    "ordinal": 106,
+    "registrySlot": 106,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-107",
+    "ordinal": 107,
+    "registrySlot": 107,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-108",
+    "ordinal": 108,
+    "registrySlot": 108,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-109",
+    "ordinal": 109,
+    "registrySlot": 109,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-110",
+    "ordinal": 110,
+    "registrySlot": 110,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-111",
+    "ordinal": 111,
+    "registrySlot": 111,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-112",
+    "ordinal": 112,
+    "registrySlot": 112,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-113",
+    "ordinal": 113,
+    "registrySlot": 113,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-114",
+    "ordinal": 114,
+    "registrySlot": 114,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-115",
+    "ordinal": 115,
+    "registrySlot": 115,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-116",
+    "ordinal": 116,
+    "registrySlot": 116,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-117",
+    "ordinal": 117,
+    "registrySlot": 117,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-118",
+    "ordinal": 118,
+    "registrySlot": 118,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-119",
+    "ordinal": 119,
+    "registrySlot": 119,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  },
+  {
+    "id": "sr-deshi-120",
+    "ordinal": 120,
+    "registrySlot": 120,
+    "sourceOrdinal": null,
+    "canonicalName": null,
+    "iast": null,
+    "devanagari": null,
+    "aliases": [],
+    "tradition": "deshi",
+    "classification": "Unresolved Sangita Ratnakara source record",
+    "constituentAngas": null,
+    "totalKala": null,
+    "kriyaSequence": null,
+    "modernCorrespondence": [],
+    "rendering": {
+      "supported": false,
+      "mode": "unavailable",
+      "reason": "Canonical name and structure await edition-level transcription."
+    },
+    "usableInComposition": false,
+    "verification": "historical-observatory",
+    "reviewStatus": "source-transcription-required",
+    "attestationLevel": "unresolved-source-slot",
+    "sourceWork": "Sangita Ratnakara",
+    "sourceChapter": "Taladhyaya",
+    "provenance": [
+      "adyar-vol3-primary-transcription-target"
+    ],
+    "sourceLocator": {
+      "edition": "Adyar Library, Vol. III, Adhyayas 5–6",
+      "verse": null,
+      "page": null
+    },
+    "note": "Protected source registry slot. Canonical name, order and structure have not been asserted; no modern Matra count or Theka has been invented."
+  }
+]
