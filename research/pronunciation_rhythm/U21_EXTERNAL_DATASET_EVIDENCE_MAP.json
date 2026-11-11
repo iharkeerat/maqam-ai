@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "as_of_date": "2026-10-24",
+  "important_boundary": "The list records independently published source descriptions; it does not mean any new corpus has been downloaded, manually audited or licensed for redistribution.",
+  "sources": [
+    {
+      "id": "hindi_speech_corpus",
+      "title": "Hindi Speech Corpus",
+      "url": "https://github.com/aashishyadavally/Hindi-Speech-Corpus",
+      "evidence_level": "LOCAL_40_RECORD_EXCERPT_UNRECONCILED",
+      "declared_fields": [
+        "orthography",
+        "phone_transcription"
+      ],
+      "not_documented": [
+        "alternative_pronunciations_for_same_item",
+        "syllable_boundary_annotations",
+        "lyric_alignment",
+        "taal_grid"
+      ],
+      "languages": [
+        "hi"
+      ],
+      "known_scope": "word-level Hindi corpus, short vocabulary; 40 excerpted records held locally",
+      "licensing": "Repository states MIT; data-component rights must still be reviewed",
+      "local_material": "research/pronunciation_rhythm/lexical_sources/HINDI_LEXICON_SOURCE_EXCERPT.tsv",
+      "source_notes": "Source-indexed excerpt; full upstream lexicon never independently reconciled in current release"
+    },
+    {
+      "id": "arora2020",
+      "title": "Arora, Gessler and Schneider (ACL 2020) schwa deletion",
+      "url": "https://aclanthology.org/2020.acl-main.696/",
+      "code_url": "https://github.com/aryamanarora/schwa-deletion",
+      "evidence_level": "PUBLIC_DESCRIPTION_ONLY",
+      "declared_fields": [
+        "orthography",
+        "pronunciation_or_schwa_labels"
+      ],
+      "not_documented": [
+        "independently_attested_multiple_sung_pronunciations_per_item",
+        "sung_syllable_boundaries",
+        "lyric_alignment",
+        "taal_grid"
+      ],
+      "languages": [
+        "hi",
+        "pa"
+      ],
+      "known_scope": "Hindi/Punjabi G2P and schwa-deletion classifiers and dictionaries",
+      "licensing": "Per-file dataset rights and derived dictionary redistribution not checked",
+      "local_material": null,
+      "source_notes": "Model-predicted alternatives must not be promoted to independently observed alternative pronunciations"
+    },
+    {
+      "id": "sargambench2026",
+      "title": "SargamBench (Zenodo 2026)",
+      "url": "https://zenodo.org/records/21904267",
+      "evidence_level": "PUBLIC_DESCRIPTION_ONLY",
+      "declared_fields": [
+        "lyric_text",
+        "lyric_syllable_alignment",
+        "sargam_melody",
+        "composition_split"
+      ],
+      "not_documented": [
+        "taal_grid",
+        "sung_audio",
+        "punjabi_lyrics",
+        "same_item_pronunciation_variants"
+      ],
+      "languages": [
+        "hi",
+        "sa",
+        "bn"
+      ],
+      "known_scope": "1,026 lyric–Sargam pairs, ten Raag profiles, lyric–melody alignment; release explicitly excludes Taal",
+      "licensing": "Zenodo page rights section not resolved in inspection; review precise license before reuse",
+      "local_material": null,
+      "source_notes": "A lyric–melody sequence cannot be relabeled a Taal timing reference"
+    },
+    {
+      "id": "iitb_expressive_timing_2025",
+      "title": "Expressive Timing in Hindustani Vocal Music (2025 IIT Bombay study)",
+      "url": "https://www.ee.iitb.ac.in/course/~daplab/publications/2025/Expressive%20Timing%20in%20Hindustani%20Vocal%20Music.pdf",
+      "evidence_level": "PUBLIC_DESCRIPTION_ONLY",
+      "declared_fields": [
+        "sung_syllable_onsets",
+        "taal_beat_grid",
+        "canonical_lyric_syllables",
+        "audio_reference"
+      ],
+      "not_documented": [
+        "same_item_pronunciation_variant_gold",
+        "punjabi_specific_pairs"
+      ],
+      "languages": [
+        "hi"
+      ],
+      "known_scope": "Study reports 2,041 manually labeled syllable onsets from 14 recordings and eight singers in Teentaal; underlying annotation files not acquired here",
+      "licensing": "Supplementary data accessibility and redistribution permissions not verified",
+      "local_material": null,
+      "source_notes": "A relevant real lyric–rhythm dataset exists, but no alternate pronunciation gold has been established"
+    },
+    {
+      "id": "compmusic_rhythm",
+      "title": "CompMusic Hindustani Rhythm Dataset",
+      "url": "https://compmusic.upf.edu/ta/hindustani-rhythm-dataset",
+      "evidence_level": "PUBLIC_DESCRIPTION_ONLY",
+      "declared_fields": [
+        "taal_cycle_marks",
+        "audio_reference"
+      ],
+      "not_documented": [
+        "same_item_lyric_syllable_boundaries",
+        "same_item_pronunciation_variants"
+      ],
+      "languages": [],
+      "known_scope": "Manually marked progress through Hindustani Taal cycles; does not document co-indexed syllabified lyrics in source description",
+      "licensing": "Data license and access conditions must be checked before download",
+      "local_material": null,
+      "source_notes": "Taal data from unrelated performances cannot serve as gold alignments for arbitrary lyrics"
+    }
+  ],
+  "claim_specs": [
+    {
+      "id": "word_phone_lookup",
+      "requirements": [
+        "orthography",
+        "phone_transcription"
+      ],
+      "scope": "word-to-phone source transcription, not gold accuracy"
+    },
+    {
+      "id": "lyric_sargam_alignment",
+      "requirements": [
+        "lyric_syllable_alignment",
+        "sargam_melody"
+      ],
+      "scope": "symbolic lyric–melody reference, not Taal or song pronunciation variants"
+    },
+    {
+      "id": "lyric_taal_timing",
+      "requirements": [
+        "sung_syllable_onsets",
+        "taal_beat_grid"
+      ],
+      "scope": "sung syllable onsets under a beat grid; not pronunciation variability"
+    },
+    {
+      "id": "pronunciation_alternative_validity",
+      "requirements": [
+        "independently_attested_multiple_sung_pronunciations_per_item",
+        "independent_syllable_boundary_gold"
+      ],
+      "scope": "same word/item verified multiple pronunciations and their boundaries"
+    },
+    {
+      "id": "delayed_commitment_real_world_advantage",
+      "requirements": [
+        "independently_attested_multiple_sung_pronunciations_per_item",
+        "independent_syllable_boundary_gold",
+        "same_item_lyric_taal_alignment",
+        "independent_reference_not_from_tested_model"
+      ],
+      "scope": "all requirements must apply to the SAME evaluation instance, not independent corpora"
+    }
+  ],
+  "integrity_rules": [
+    "Never union different sources to assemble item-level ground truth without externally verified same-item linkage.",
+    "Presence of a published dataset is not proof that its bytes were acquired or its annotations independently checked.",
+    "A synthetic schwa deletion is not an independently attested pronunciation.",
+    "A G2P output is not an observed sung syllabification.",
+    "Licensing, checksum integrity and scientific validation are separate gates."
+  ]
+}

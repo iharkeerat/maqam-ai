@@ -1,0 +1,3811 @@
+[
+  {
+    "id": "bhairav",
+    "name": "Bhairav",
+    "displayName": "Bhairav",
+    "aliases": [
+      "Bhairav"
+    ],
+    "devanagari": "भैरव",
+    "thaat": "Bhairav",
+    "vadi": "Dhaivat (d)",
+    "vadiSwar": "d",
+    "samvadi": "Rishabh (r)",
+    "samvadiSwar": "r",
+    "prakriti": "Gambhir / devotional",
+    "time": "Morning (4 AM–7 AM)",
+    "aaroh": "S r G m P d N S'",
+    "avroh": "S' N d P m G r S",
+    "pakad": "G m d d P, G m r r S",
+    "allowedSwars": [
+      "S",
+      "r",
+      "G",
+      "m",
+      "P",
+      "d",
+      "N"
+    ],
+    "forbiddenSwars": [
+      "R",
+      "g",
+      "M",
+      "D",
+      "n"
+    ],
+    "nyasSwars": [
+      "d",
+      "r",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "G",
+        "m",
+        "d"
+      ],
+      [
+        "r",
+        "r",
+        "S"
+      ],
+      [
+        "G",
+        "m",
+        "d",
+        "d"
+      ],
+      [
+        "m",
+        "r",
+        "r",
+        "S"
+      ],
+      [
+        "G",
+        "m",
+        "d",
+        "d",
+        "P"
+      ],
+      [
+        "G",
+        "m",
+        "r",
+        "r",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "r",
+      "G",
+      "m",
+      "P",
+      "d",
+      "N",
+      "S",
+      "S",
+      "N",
+      "d",
+      "P",
+      "m",
+      "G",
+      "r",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "16/15",
+      "d": "128/81",
+      "G": "5/4",
+      "N": "15/8"
+    },
+    "andolan": {
+      "r": {
+        "widthCents": 20,
+        "speedHz": 4.5,
+        "asymmetry": 0.8
+      },
+      "d": {
+        "widthCents": 22,
+        "speedHz": 4.2,
+        "asymmetry": 0.8
+      }
+    },
+    "rasaVector": [
+      0.1,
+      0.98,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2,
+      0
+    ],
+    "primaryRasa": "Shanti/Bhakti",
+    "contextLogic": "Stern morning accountability.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "bhairavi",
+    "name": "Bhairavi",
+    "displayName": "Bhairavi",
+    "aliases": [
+      "Bhairavi"
+    ],
+    "devanagari": "भैरवी",
+    "thaat": "Bhairavi",
+    "vadi": "Madhyam (m)",
+    "vadiSwar": "m",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Universal / versatile",
+    "time": "Flexible; traditionally late morning",
+    "aaroh": "S r g m P d n S'",
+    "avroh": "S' n d P m g r S",
+    "pakad": "m g S r S, n_low d_low n_low S",
+    "allowedSwars": [
+      "S",
+      "r",
+      "g",
+      "m",
+      "P",
+      "d",
+      "n"
+    ],
+    "forbiddenSwars": [
+      "R",
+      "G",
+      "M",
+      "D",
+      "N"
+    ],
+    "nyasSwars": [
+      "m",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "m",
+        "g",
+        "S"
+      ],
+      [
+        "d",
+        "n",
+        "S"
+      ],
+      [
+        "m",
+        "g",
+        "S",
+        "r"
+      ],
+      [
+        "n",
+        "d",
+        "n",
+        "S"
+      ],
+      [
+        "m",
+        "g",
+        "S",
+        "r",
+        "S"
+      ],
+      [
+        "S",
+        "n",
+        "d",
+        "n",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "recommendedForms": [
+      "Thumri",
+      "Dadra",
+      "Bhajan",
+      "Ghazal"
+    ],
+    "defaultNotation": [
+      "S",
+      "r",
+      "g",
+      "m",
+      "P",
+      "d",
+      "n",
+      "S",
+      "S",
+      "n",
+      "d",
+      "P",
+      "m",
+      "g",
+      "r",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "256/243",
+      "g": "32/27",
+      "d": "128/81",
+      "n": "16/9"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0.85,
+      0.3,
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Karuna/Samarpan",
+    "contextLogic": "Universal emotional conclusion.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "yaman",
+    "name": "Yaman",
+    "displayName": "Yaman",
+    "aliases": [
+      "Yaman",
+      "Kalyan",
+      "Iman"
+    ],
+    "devanagari": "यमन",
+    "thaat": "Kalyan",
+    "vadi": "Gandhar (G)",
+    "vadiSwar": "G",
+    "samvadi": "Nishad (N)",
+    "samvadiSwar": "N",
+    "prakriti": "Shant / romantic",
+    "time": "Evening (first quarter)",
+    "aaroh": "N_low R G M# P D N S'",
+    "avroh": "S' N D P M# G R S",
+    "pakad": "N_low R G R S, P M# G R S",
+    "allowedSwars": [
+      "N",
+      "R",
+      "G",
+      "M",
+      "P",
+      "D",
+      "S"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "m",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "G",
+      "N",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "N",
+        "R",
+        "G"
+      ],
+      [
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "N",
+        "R",
+        "G",
+        "R"
+      ],
+      [
+        "M",
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "N",
+        "R",
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "P",
+        "M",
+        "G",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal",
+      "Jhaptal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "N",
+      "R",
+      "G",
+      "M",
+      "P",
+      "D",
+      "N",
+      "S",
+      "S",
+      "N",
+      "D",
+      "P",
+      "M",
+      "G",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "G": "5/4",
+      "M": "45/32",
+      "D": "27/16",
+      "N": "15/8"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.5,
+      0.98,
+      0,
+      0,
+      0,
+      0,
+      0.4,
+      0
+    ],
+    "primaryRasa": "Shringar/Prarthana",
+    "contextLogic": "Luminous romantic prayer.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "alhaiya-bilawal",
+    "name": "Alhaiya_Bilawal",
+    "displayName": "Alhaiya Bilawal",
+    "aliases": [
+      "Alhaiya Bilawal"
+    ],
+    "devanagari": "अल्हैया बिलावल",
+    "thaat": "Bilawal",
+    "vadi": "Dhaivat (D)",
+    "vadiSwar": "D",
+    "samvadi": "Gandhar (G)",
+    "samvadiSwar": "G",
+    "prakriti": "Bright / joyful",
+    "time": "Late morning (9 AM–12 PM)",
+    "aaroh": "S G R G P D N S'",
+    "avroh": "S' N D P, D n D P, m G R S",
+    "pakad": "G R G P, m G, R S",
+    "allowedSwars": [
+      "S",
+      "G",
+      "R",
+      "P",
+      "D",
+      "N",
+      "n",
+      "m"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "M",
+      "d"
+    ],
+    "nyasSwars": [
+      "D",
+      "G",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "G",
+        "R",
+        "G"
+      ],
+      [
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "G",
+        "R",
+        "G",
+        "P"
+      ],
+      [
+        "m",
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "G",
+        "R",
+        "G",
+        "P",
+        "m"
+      ],
+      [
+        "P",
+        "m",
+        "G",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "G",
+      "R",
+      "G",
+      "P",
+      "D",
+      "N",
+      "S",
+      "S",
+      "N",
+      "D",
+      "P",
+      "D",
+      "n",
+      "D",
+      "P"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "G": "81/64",
+      "m": "4/3",
+      "D": "27/16",
+      "n": "16/9"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.6,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.7
+    ],
+    "primaryRasa": "Ananda/Shanti",
+    "contextLogic": "Bright joy with a contextual touch of komal Ni.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "kafi",
+    "name": "Kafi",
+    "displayName": "Kafi",
+    "aliases": [
+      "Kafi"
+    ],
+    "devanagari": "काफी",
+    "thaat": "Kafi",
+    "vadi": "Pancham (P)",
+    "vadiSwar": "P",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Playful / emotional",
+    "time": "Late evening / midnight",
+    "aaroh": "S R g m P D n S'",
+    "avroh": "S' n D P m g R S",
+    "pakad": "S R R g m P",
+    "allowedSwars": [
+      "S",
+      "R",
+      "g",
+      "m",
+      "P",
+      "D",
+      "n"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "G",
+      "M",
+      "d",
+      "N"
+    ],
+    "nyasSwars": [
+      "P",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "R",
+        "R"
+      ],
+      [
+        "g",
+        "m",
+        "P"
+      ],
+      [
+        "S",
+        "R",
+        "R",
+        "g"
+      ],
+      [
+        "R",
+        "g",
+        "m",
+        "P"
+      ],
+      [
+        "S",
+        "R",
+        "R",
+        "g",
+        "m"
+      ]
+    ],
+    "recommendedTaals": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "recommendedForms": [
+      "Thumri",
+      "Dadra",
+      "Folk",
+      "Bhajan"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "g",
+      "m",
+      "P",
+      "D",
+      "n",
+      "S",
+      "S",
+      "n",
+      "D",
+      "P",
+      "m",
+      "g",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "g": "32/27",
+      "n": "16/9",
+      "R": "9/8",
+      "D": "27/16"
+    },
+    "andolan": {
+      "g": {
+        "widthCents": 15,
+        "speedHz": 6,
+        "asymmetry": 0.2
+      },
+      "n": {
+        "widthCents": 12,
+        "speedHz": 6.5,
+        "asymmetry": 0.2
+      }
+    },
+    "rasaVector": [
+      0.3,
+      0,
+      0.9,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0.5
+    ],
+    "primaryRasa": "Chanchal/Shringar",
+    "contextLogic": "Playful and emotional; light andolan on komal Ga and Ni.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "asavari",
+    "name": "Asavari",
+    "displayName": "Asavari",
+    "aliases": [
+      "Asavari"
+    ],
+    "devanagari": "आसावरी",
+    "thaat": "Asavari",
+    "vadi": "Dhaivat (d)",
+    "vadiSwar": "d",
+    "samvadi": "Gandhar (g)",
+    "samvadiSwar": "g",
+    "prakriti": "Tyag / virakti",
+    "time": "Morning (second quarter)",
+    "aaroh": "S R m P d S'",
+    "avroh": "S' n d P m g R S",
+    "pakad": "m P d n d P, g R S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "m",
+      "P",
+      "d",
+      "n",
+      "g"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "G",
+      "M",
+      "D",
+      "N"
+    ],
+    "nyasSwars": [
+      "d",
+      "g",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "m",
+        "P",
+        "d"
+      ],
+      [
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "m",
+        "P",
+        "d",
+        "n"
+      ],
+      [
+        "P",
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "m",
+        "P",
+        "d",
+        "n",
+        "d"
+      ],
+      [
+        "d",
+        "P",
+        "g",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "m",
+      "P",
+      "d",
+      "S",
+      "S",
+      "n",
+      "d",
+      "P",
+      "m",
+      "g",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "16/15",
+      "g": "32/27",
+      "d": "128/81",
+      "n": "16/9"
+    },
+    "andolan": {
+      "d": {
+        "widthCents": 25,
+        "speedHz": 4,
+        "asymmetry": 0.5
+      }
+    },
+    "rasaVector": [
+      0.7,
+      0.8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Vairagya",
+    "contextLogic": "Intense renunciation; Dhaivat oscillation creates spiritual space.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "khamaj",
+    "name": "Khamaj",
+    "displayName": "Khamaj",
+    "aliases": [
+      "Khamaj"
+    ],
+    "devanagari": "खमाज",
+    "thaat": "Khamaj",
+    "vadi": "Gandhar (G)",
+    "vadiSwar": "G",
+    "samvadi": "Nishad (N)",
+    "samvadiSwar": "N",
+    "prakriti": "Chanchal / romantic",
+    "time": "Late night",
+    "aaroh": "S G m P D N S'",
+    "avroh": "S' n D P m G R S",
+    "pakad": "G m P D n D P, m G R S",
+    "allowedSwars": [
+      "S",
+      "G",
+      "m",
+      "P",
+      "D",
+      "N",
+      "n",
+      "R"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "M",
+      "d"
+    ],
+    "nyasSwars": [
+      "G",
+      "N",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "G",
+        "m",
+        "P"
+      ],
+      [
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "G",
+        "m",
+        "P",
+        "D"
+      ],
+      [
+        "m",
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "G",
+        "m",
+        "P",
+        "D",
+        "n"
+      ],
+      [
+        "P",
+        "m",
+        "G",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "recommendedForms": [
+      "Thumri",
+      "Dadra",
+      "Ghazal"
+    ],
+    "defaultNotation": [
+      "S",
+      "G",
+      "m",
+      "P",
+      "D",
+      "N",
+      "S",
+      "S",
+      "n",
+      "D",
+      "P",
+      "m",
+      "G",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "G": "5/4",
+      "m": "4/3",
+      "D": "27/16",
+      "n": "16/9",
+      "N": "15/8"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0,
+      0.95,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.4
+    ],
+    "primaryRasa": "Shringar",
+    "contextLogic": "Contrast between shuddha and komal Nishad is central.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "marwa",
+    "name": "Marwa",
+    "displayName": "Marwa",
+    "aliases": [
+      "Marwa"
+    ],
+    "devanagari": "मारवा",
+    "thaat": "Marwa",
+    "vadi": "Rishabh (r)",
+    "vadiSwar": "r",
+    "samvadi": "Dhaivat (D)",
+    "samvadiSwar": "D",
+    "prakriti": "Restless / intense",
+    "time": "Sunset / sandhiprakash",
+    "aaroh": "S r G M# D N S'",
+    "avroh": "S' N D M# G r S",
+    "pakad": "D_low N_low r, G r, G M# D, G r S",
+    "allowedSwars": [
+      "S",
+      "r",
+      "G",
+      "M",
+      "D",
+      "N"
+    ],
+    "forbiddenSwars": [
+      "R",
+      "g",
+      "m",
+      "P",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "r",
+      "D",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "D",
+        "N",
+        "r"
+      ],
+      [
+        "G",
+        "r",
+        "S"
+      ],
+      [
+        "D",
+        "N",
+        "r",
+        "G"
+      ],
+      [
+        "D",
+        "G",
+        "r",
+        "S"
+      ],
+      [
+        "D",
+        "N",
+        "r",
+        "G",
+        "r"
+      ],
+      [
+        "M",
+        "D",
+        "G",
+        "r",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "r",
+      "G",
+      "M",
+      "D",
+      "N",
+      "S",
+      "S",
+      "N",
+      "D",
+      "M",
+      "G",
+      "r",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "256/243",
+      "G": "5/4",
+      "M": "45/32",
+      "D": "27/16",
+      "N": "15/8"
+    },
+    "andolan": {
+      "r": {
+        "widthCents": 35,
+        "speedHz": 3,
+        "asymmetry": 1
+      }
+    },
+    "rasaVector": [
+      0.4,
+      0.2,
+      0,
+      0,
+      0.2,
+      0.6,
+      0,
+      0.7,
+      0
+    ],
+    "primaryRasa": "Anxiety/Transcendence",
+    "contextLogic": "Restless evening unease.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "purvi",
+    "name": "Purvi",
+    "displayName": "Purvi",
+    "aliases": [
+      "Purvi"
+    ],
+    "devanagari": "पूर्वी",
+    "thaat": "Purvi",
+    "vadi": "Gandhar (G)",
+    "vadiSwar": "G",
+    "samvadi": "Nishad (N)",
+    "samvadiSwar": "N",
+    "prakriti": "Deep / devotional",
+    "time": "Sunset",
+    "aaroh": "S r G M# P d N S'",
+    "avroh": "S' N d P M# G r S",
+    "pakad": "S r G, M# P, d P, M# G, r S",
+    "allowedSwars": [
+      "S",
+      "r",
+      "G",
+      "M",
+      "P",
+      "d",
+      "N"
+    ],
+    "forbiddenSwars": [
+      "R",
+      "g",
+      "m",
+      "D",
+      "n"
+    ],
+    "nyasSwars": [
+      "G",
+      "N",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "r",
+        "G"
+      ],
+      [
+        "G",
+        "r",
+        "S"
+      ],
+      [
+        "S",
+        "r",
+        "G",
+        "M"
+      ],
+      [
+        "M",
+        "G",
+        "r",
+        "S"
+      ],
+      [
+        "S",
+        "r",
+        "G",
+        "M",
+        "P"
+      ],
+      [
+        "P",
+        "M",
+        "G",
+        "r",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "r",
+      "G",
+      "M",
+      "P",
+      "d",
+      "N",
+      "S",
+      "S",
+      "N",
+      "d",
+      "P",
+      "M",
+      "G",
+      "r",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "16/15",
+      "G": "5/4",
+      "M": "45/32",
+      "d": "128/81",
+      "N": "15/8"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0.2,
+      0.8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3,
+      0
+    ],
+    "primaryRasa": "Spiritual gravity",
+    "contextLogic": "Serious sunset introspection.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "todi",
+    "name": "Todi",
+    "displayName": "Todi",
+    "aliases": [
+      "Todi"
+    ],
+    "devanagari": "तोड़ी",
+    "thaat": "Todi",
+    "vadi": "Dhaivat (d)",
+    "vadiSwar": "d",
+    "samvadi": "Gandhar (g)",
+    "samvadiSwar": "g",
+    "prakriti": "Lamenting / meditative",
+    "time": "Late morning",
+    "aaroh": "S r g M# P d N S'",
+    "avroh": "S' N d P M# g r S",
+    "pakad": "r g r S, d_low n_low S",
+    "allowedSwars": [
+      "S",
+      "r",
+      "g",
+      "M",
+      "P",
+      "d",
+      "N",
+      "n"
+    ],
+    "forbiddenSwars": [
+      "R",
+      "G",
+      "m",
+      "D"
+    ],
+    "nyasSwars": [
+      "d",
+      "g",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "r",
+        "g",
+        "r"
+      ],
+      [
+        "d",
+        "n",
+        "S"
+      ],
+      [
+        "r",
+        "g",
+        "r",
+        "S"
+      ],
+      [
+        "S",
+        "d",
+        "n",
+        "S"
+      ],
+      [
+        "r",
+        "g",
+        "r",
+        "S",
+        "d"
+      ],
+      [
+        "r",
+        "S",
+        "d",
+        "n",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "r",
+      "g",
+      "M",
+      "P",
+      "d",
+      "N",
+      "S",
+      "S",
+      "N",
+      "d",
+      "P",
+      "M",
+      "g",
+      "r",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "256/243",
+      "g": "32/27",
+      "M": "45/32",
+      "d": "128/81",
+      "N": "15/8"
+    },
+    "andolan": {
+      "g": {
+        "widthCents": 38,
+        "speedHz": 3.2,
+        "asymmetry": 0.8
+      },
+      "d": {
+        "widthCents": 30,
+        "speedHz": 3.5,
+        "asymmetry": 0.8
+      }
+    },
+    "rasaVector": [
+      0.9,
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Karuna/Prarthana",
+    "contextLogic": "Deep pathos; andolans on Ga and Dha are identity-bearing.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "darbari-kanada",
+    "name": "Darbari_Kanada",
+    "displayName": "Darbari Kanada",
+    "aliases": [
+      "Darbari Kanada",
+      "Darbari",
+      "Darbari Kanara"
+    ],
+    "devanagari": "दरबारी कान्हड़ा",
+    "thaat": "Asavari",
+    "vadi": "Rishabh (r)",
+    "vadiSwar": "r",
+    "samvadi": "Pancham (P)",
+    "samvadiSwar": "P",
+    "prakriti": "Majestic / grave",
+    "time": "Midnight",
+    "aaroh": "S R g m P d n S' (vakra)",
+    "avroh": "S' n d P m g r S",
+    "pakad": "g r S, d_low n_low S, r",
+    "allowedSwars": [
+      "S",
+      "R",
+      "g",
+      "m",
+      "P",
+      "d",
+      "n",
+      "r"
+    ],
+    "forbiddenSwars": [
+      "G",
+      "M",
+      "D",
+      "N"
+    ],
+    "nyasSwars": [
+      "r",
+      "P",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "g",
+        "r",
+        "S"
+      ],
+      [
+        "n",
+        "S",
+        "r"
+      ],
+      [
+        "g",
+        "r",
+        "S",
+        "d"
+      ],
+      [
+        "d",
+        "n",
+        "S",
+        "r"
+      ],
+      [
+        "g",
+        "r",
+        "S",
+        "d",
+        "n"
+      ],
+      [
+        "S",
+        "d",
+        "n",
+        "S",
+        "r"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Jhumra",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "g",
+      "m",
+      "P",
+      "d",
+      "n",
+      "S",
+      "S",
+      "n",
+      "d",
+      "P",
+      "m",
+      "g",
+      "r",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "16/15",
+      "g": "32/27",
+      "m": "4/3",
+      "d": "128/81",
+      "n": "16/9"
+    },
+    "andolan": {
+      "g": {
+        "widthCents": 45,
+        "speedHz": 3,
+        "asymmetry": 1
+      },
+      "d": {
+        "widthCents": 40,
+        "speedHz": 3.2,
+        "asymmetry": 1
+      }
+    },
+    "rasaVector": [
+      0.98,
+      0.4,
+      0,
+      0.5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Gambhir/Shahi",
+    "contextLogic": "Majestic, heavy royal grief.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "malkauns",
+    "name": "Malkauns",
+    "displayName": "Malkauns",
+    "aliases": [
+      "Malkauns"
+    ],
+    "devanagari": "मालकौंस",
+    "thaat": "Bhairavi",
+    "vadi": "Madhyam (m)",
+    "vadiSwar": "m",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Meditative / deep",
+    "time": "Midnight",
+    "aaroh": "S g m d n S'",
+    "avroh": "S' n d m g S",
+    "pakad": "g m d m g S",
+    "allowedSwars": [
+      "S",
+      "g",
+      "m",
+      "d",
+      "n"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "R",
+      "G",
+      "M",
+      "P",
+      "D",
+      "N"
+    ],
+    "nyasSwars": [
+      "m",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "g",
+        "m",
+        "d"
+      ],
+      [
+        "m",
+        "g",
+        "S"
+      ],
+      [
+        "g",
+        "m",
+        "d",
+        "m"
+      ],
+      [
+        "d",
+        "m",
+        "g",
+        "S"
+      ],
+      [
+        "g",
+        "m",
+        "d",
+        "m",
+        "g"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "g",
+      "m",
+      "d",
+      "n",
+      "S",
+      "S",
+      "n",
+      "d",
+      "m",
+      "g",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "g": "32/27",
+      "m": "4/3",
+      "d": "128/81",
+      "n": "16/9"
+    },
+    "andolan": {
+      "g": {
+        "widthCents": 25,
+        "speedHz": 4,
+        "asymmetry": 0.5
+      },
+      "d": {
+        "widthCents": 25,
+        "speedHz": 4,
+        "asymmetry": 0.5
+      },
+      "n": {
+        "widthCents": 20,
+        "speedHz": 4.5,
+        "asymmetry": 0.5
+      }
+    },
+    "rasaVector": [
+      0,
+      0.9,
+      0,
+      0.7,
+      0,
+      0,
+      0,
+      0.3,
+      0
+    ],
+    "primaryRasa": "Veer/Shanta",
+    "contextLogic": "Meditative power in a pentatonic field.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "bhimpalasi",
+    "name": "Bhimpalasi",
+    "displayName": "Bhimpalasi",
+    "aliases": [
+      "Bhimpalasi"
+    ],
+    "devanagari": "भीमपलासी",
+    "thaat": "Kafi",
+    "vadi": "Madhyam (m)",
+    "vadiSwar": "m",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Sweet / cooling",
+    "time": "Afternoon (3 PM–6 PM)",
+    "aaroh": "n_low S g m P n S'",
+    "avroh": "S' n D P m g R S",
+    "pakad": "n_low S m, g P m, g R S",
+    "allowedSwars": [
+      "n",
+      "S",
+      "g",
+      "m",
+      "P",
+      "D",
+      "R"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "G",
+      "M",
+      "d",
+      "N"
+    ],
+    "nyasSwars": [
+      "m",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "n",
+        "S",
+        "m"
+      ],
+      [
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "n",
+        "S",
+        "m",
+        "g"
+      ],
+      [
+        "m",
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "n",
+        "S",
+        "m",
+        "g",
+        "P"
+      ],
+      [
+        "P",
+        "m",
+        "g",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Jhaptal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "n",
+      "S",
+      "g",
+      "m",
+      "P",
+      "n",
+      "S",
+      "S",
+      "n",
+      "D",
+      "P",
+      "m",
+      "g",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "g": "32/27",
+      "m": "4/3",
+      "P": "3/2",
+      "n": "16/9",
+      "D": "27/16"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0.4,
+      0.8,
+      0.6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Shanti/Virah",
+    "contextLogic": "Late-afternoon calm and longing.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "bihag",
+    "name": "Bihag",
+    "displayName": "Bihag",
+    "aliases": [
+      "Bihag"
+    ],
+    "devanagari": "बिहाग",
+    "thaat": "Bilawal",
+    "vadi": "Gandhar (G)",
+    "vadiSwar": "G",
+    "samvadi": "Nishad (N)",
+    "samvadiSwar": "N",
+    "prakriti": "Romantic / bright",
+    "time": "Late night (second quarter)",
+    "aaroh": "N_low S G m P N S'",
+    "avroh": "S' N D P M# P G m G R S",
+    "pakad": "N_low S G m G, P G m G",
+    "allowedSwars": [
+      "N",
+      "S",
+      "G",
+      "m",
+      "P",
+      "D",
+      "M",
+      "R"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "G",
+      "N",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "N",
+        "S",
+        "G"
+      ],
+      [
+        "G",
+        "m",
+        "G"
+      ],
+      [
+        "N",
+        "S",
+        "G",
+        "m"
+      ],
+      [
+        "P",
+        "G",
+        "m",
+        "G"
+      ],
+      [
+        "N",
+        "S",
+        "G",
+        "m",
+        "G"
+      ],
+      [
+        "G",
+        "P",
+        "G",
+        "m",
+        "G"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "N",
+      "S",
+      "G",
+      "m",
+      "P",
+      "N",
+      "S",
+      "S",
+      "N",
+      "D",
+      "P",
+      "M",
+      "P",
+      "G",
+      "m",
+      "G"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "G": "5/4",
+      "m": "4/3",
+      "M": "45/32",
+      "P": "3/2",
+      "N": "15/8",
+      "D": "27/16"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.3,
+      0.98,
+      0,
+      0,
+      0,
+      0,
+      0.2,
+      0
+    ],
+    "primaryRasa": "Shringar",
+    "contextLogic": "Classic romantic brilliance.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "desh",
+    "name": "Desh",
+    "displayName": "Desh",
+    "aliases": [
+      "Desh"
+    ],
+    "devanagari": "देश",
+    "thaat": "Khamaj",
+    "vadi": "Rishabh (R)",
+    "vadiSwar": "R",
+    "samvadi": "Pancham (P)",
+    "samvadiSwar": "P",
+    "prakriti": "Folk-rooted / expansive",
+    "time": "Night; monsoon association",
+    "aaroh": "S R m P N S'",
+    "avroh": "S' n D P m G R G n_low S",
+    "pakad": "R m P n D P, m G R, G n_low S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "m",
+      "P",
+      "N",
+      "n",
+      "D",
+      "G"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "M",
+      "d"
+    ],
+    "nyasSwars": [
+      "R",
+      "P",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "R",
+        "m",
+        "P"
+      ],
+      [
+        "G",
+        "n",
+        "S"
+      ],
+      [
+        "R",
+        "m",
+        "P",
+        "n"
+      ],
+      [
+        "R",
+        "G",
+        "n",
+        "S"
+      ],
+      [
+        "R",
+        "m",
+        "P",
+        "n",
+        "D"
+      ],
+      [
+        "G",
+        "R",
+        "G",
+        "n",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Keharwa",
+      "Dadra",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Bhajan",
+      "Folk",
+      "Khayal",
+      "Patriotic song"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "m",
+      "P",
+      "N",
+      "S",
+      "S",
+      "n",
+      "D",
+      "P",
+      "m",
+      "G",
+      "R",
+      "G",
+      "n",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "m": "4/3",
+      "P": "3/2",
+      "n": "16/9",
+      "N": "15/8"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0.3,
+      0.7,
+      0.8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.4
+    ],
+    "primaryRasa": "Bhakti/Longing",
+    "contextLogic": "Seasonal longing and open lyricism.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "bageshree",
+    "name": "Bageshree",
+    "displayName": "Bageshree",
+    "aliases": [
+      "Bageshree",
+      "Bageshri"
+    ],
+    "devanagari": "बागेश्री",
+    "thaat": "Kafi",
+    "vadi": "Madhyam (m)",
+    "vadiSwar": "m",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Emotional / longing",
+    "time": "Midnight",
+    "aaroh": "S n_low D_low n_low S g m D n S'",
+    "avroh": "S' n D m, P D g m R S",
+    "pakad": "S n_low D_low n_low S, m, D n D m, g R S",
+    "allowedSwars": [
+      "S",
+      "n",
+      "D",
+      "g",
+      "m",
+      "P",
+      "R"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "G",
+      "M",
+      "d",
+      "N"
+    ],
+    "nyasSwars": [
+      "m",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "n",
+        "D"
+      ],
+      [
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "n",
+        "D",
+        "n"
+      ],
+      [
+        "m",
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "n",
+        "D",
+        "n",
+        "S"
+      ],
+      [
+        "D",
+        "m",
+        "g",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Jhaptal",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "n",
+      "D",
+      "n",
+      "S",
+      "g",
+      "m",
+      "D",
+      "n",
+      "S",
+      "S",
+      "n",
+      "D",
+      "m",
+      "P",
+      "D"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "g": "32/27",
+      "m": "4/3",
+      "D": "27/16",
+      "n": "16/9"
+    },
+    "andolan": {
+      "g": {
+        "widthCents": 20,
+        "speedHz": 5,
+        "asymmetry": 0.5
+      },
+      "n": {
+        "widthCents": 18,
+        "speedHz": 5.5,
+        "asymmetry": 0.5
+      }
+    },
+    "rasaVector": [
+      0.85,
+      0.4,
+      0.7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Karuna/Virah",
+    "contextLogic": "Fragile waiting; komal Ga and Ni require emotional treatment.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "ahir-bhairav",
+    "name": "Ahir_Bhairav",
+    "displayName": "Ahir Bhairav",
+    "aliases": [
+      "Ahir Bhairav"
+    ],
+    "devanagari": "अहीर भैरव",
+    "thaat": "Bhairav",
+    "vadi": "Madhyam (m)",
+    "vadiSwar": "m",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Deep / spiritual",
+    "time": "Morning (first quarter)",
+    "aaroh": "S r G m P D n S'",
+    "avroh": "S' n D P m G r S",
+    "pakad": "r G m, G r, S n_low r S",
+    "allowedSwars": [
+      "S",
+      "r",
+      "G",
+      "m",
+      "P",
+      "D",
+      "n"
+    ],
+    "forbiddenSwars": [
+      "R",
+      "g",
+      "M",
+      "d",
+      "N"
+    ],
+    "nyasSwars": [
+      "m",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "r",
+        "G",
+        "m"
+      ],
+      [
+        "n",
+        "r",
+        "S"
+      ],
+      [
+        "r",
+        "G",
+        "m",
+        "G"
+      ],
+      [
+        "S",
+        "n",
+        "r",
+        "S"
+      ],
+      [
+        "r",
+        "G",
+        "m",
+        "G",
+        "r"
+      ],
+      [
+        "r",
+        "S",
+        "n",
+        "r",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "r",
+      "G",
+      "m",
+      "P",
+      "D",
+      "n",
+      "S",
+      "S",
+      "n",
+      "D",
+      "P",
+      "m",
+      "G",
+      "r",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "r": "16/15",
+      "G": "5/4",
+      "m": "4/3",
+      "P": "3/2",
+      "D": "27/16",
+      "n": "16/9"
+    },
+    "andolan": {
+      "r": {
+        "widthCents": 15,
+        "speedHz": 5,
+        "asymmetry": 0.2
+      }
+    },
+    "rasaVector": [
+      0.1,
+      0.95,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Shanti/Adhyatma",
+    "contextLogic": "Morning transcendence combining Bhairav and Kafi colours.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "shivaranjani",
+    "name": "Shivaranjani",
+    "displayName": "Shivaranjani",
+    "aliases": [
+      "Shivaranjani"
+    ],
+    "devanagari": "शिवरंजनी",
+    "thaat": "Kafi",
+    "vadi": "Pancham (P)",
+    "vadiSwar": "P",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Melancholic / direct",
+    "time": "Late night",
+    "aaroh": "S R g P D S'",
+    "avroh": "S' D P g R S",
+    "pakad": "S R g P, g R S, D_low P_low S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "g",
+      "P",
+      "D"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "G",
+      "m",
+      "M",
+      "d",
+      "n",
+      "N"
+    ],
+    "nyasSwars": [
+      "P",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "R",
+        "g"
+      ],
+      [
+        "D",
+        "P",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "g",
+        "P"
+      ],
+      [
+        "S",
+        "D",
+        "P",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "g",
+        "P",
+        "g"
+      ],
+      [
+        "R",
+        "S",
+        "D",
+        "P",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Dadra",
+      "Keharwa",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Bhajan",
+      "Ghazal",
+      "Light classical"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "g",
+      "P",
+      "D",
+      "S",
+      "S",
+      "D",
+      "P",
+      "g",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "g": "32/27",
+      "P": "3/2",
+      "D": "27/16"
+    },
+    "andolan": {
+      "g": {
+        "widthCents": 30,
+        "speedHz": 6,
+        "asymmetry": 0.5
+      }
+    },
+    "rasaVector": [
+      0.98,
+      0,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Karuna",
+    "contextLogic": "Pentatonic melancholy focused on komal Ga.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "tilak-kamod",
+    "name": "Tilak_Kamod",
+    "displayName": "Tilak Kamod",
+    "aliases": [
+      "Tilak Kamod"
+    ],
+    "devanagari": "तिलक कामोद",
+    "thaat": "Khamaj",
+    "vadi": "Shadaj (S)",
+    "vadiSwar": "S",
+    "samvadi": "Pancham (P)",
+    "samvadiSwar": "P",
+    "prakriti": "Playful / aesthetic",
+    "time": "Night (second quarter)",
+    "aaroh": "S R G S, R m P N S'",
+    "avroh": "S' P D m G S, R G S",
+    "pakad": "S R G S, n_low P_low N_low S R G S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "G",
+      "m",
+      "P",
+      "N",
+      "D",
+      "n"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "M",
+      "d"
+    ],
+    "nyasSwars": [
+      "S",
+      "P"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "R",
+        "G"
+      ],
+      [
+        "R",
+        "G",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "G",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "G",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "G",
+        "S",
+        "n"
+      ],
+      [
+        "N",
+        "S",
+        "R",
+        "G",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "G",
+      "S",
+      "R",
+      "m",
+      "P",
+      "N",
+      "S",
+      "S",
+      "P",
+      "D",
+      "m",
+      "G",
+      "S",
+      "R"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "G": "5/4",
+      "m": "4/3",
+      "P": "3/2",
+      "N": "15/8"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.3,
+      0.9,
+      0,
+      0,
+      0,
+      0,
+      0.1,
+      0.4
+    ],
+    "primaryRasa": "Chanchal/Shringar",
+    "contextLogic": "Playful vakra trajectories.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "shuddh-kalyan",
+    "name": "Shuddh_Kalyan",
+    "displayName": "Shuddh Kalyan",
+    "aliases": [
+      "Shuddh Kalyan"
+    ],
+    "devanagari": "शुद्ध कल्याण",
+    "thaat": "Kalyan",
+    "vadi": "Gandhar (G)",
+    "vadiSwar": "G",
+    "samvadi": "Dhaivat (D)",
+    "samvadiSwar": "D",
+    "prakriti": "Shant / dignified",
+    "time": "Evening (first quarter)",
+    "aaroh": "S R G P D S'",
+    "avroh": "S' N D P M# G R S",
+    "pakad": "S R G P, G R S, D_low P_low S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "G",
+      "P",
+      "D",
+      "N",
+      "M"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "m",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "G",
+      "D",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "R",
+        "G"
+      ],
+      [
+        "D",
+        "P",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "G",
+        "P"
+      ],
+      [
+        "S",
+        "D",
+        "P",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "G",
+        "P",
+        "G"
+      ],
+      [
+        "R",
+        "S",
+        "D",
+        "P",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "G",
+      "P",
+      "D",
+      "S",
+      "S",
+      "N",
+      "D",
+      "P",
+      "M",
+      "G",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "G": "5/4",
+      "P": "3/2",
+      "D": "27/16",
+      "N": "15/8",
+      "M": "45/32"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.95,
+      0.3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Shanta/Gambhir",
+    "contextLogic": "Dignified peace combining Bhupali-like ascent with Kalyan descent.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "hamir",
+    "name": "Hamir",
+    "displayName": "Hamir",
+    "aliases": [
+      "Hamir"
+    ],
+    "devanagari": "हमीर",
+    "thaat": "Kalyan",
+    "vadi": "Dhaivat (D)",
+    "vadiSwar": "D",
+    "samvadi": "Gandhar (G)",
+    "samvadiSwar": "G",
+    "prakriti": "Bold / vigorous",
+    "time": "Night (first quarter)",
+    "aaroh": "S G R G m D N S'",
+    "avroh": "S' N D P M# P G m R S",
+    "pakad": "S G R G m, P M# P D P, G m R S",
+    "allowedSwars": [
+      "S",
+      "G",
+      "R",
+      "m",
+      "D",
+      "N",
+      "P",
+      "M"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "D",
+      "G",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "G",
+        "R"
+      ],
+      [
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "G",
+        "R",
+        "G"
+      ],
+      [
+        "G",
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "G",
+        "R",
+        "G",
+        "m"
+      ],
+      [
+        "P",
+        "G",
+        "m",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "G",
+      "R",
+      "G",
+      "m",
+      "D",
+      "N",
+      "S",
+      "S",
+      "N",
+      "D",
+      "P",
+      "M",
+      "P",
+      "G",
+      "m"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "G": "5/4",
+      "m": "4/3",
+      "M": "45/32",
+      "D": "27/16",
+      "N": "15/8"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0.2,
+      0,
+      0.7,
+      0.8,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Veer/Shringar",
+    "contextLogic": "Both Madhyams create a majestic architectural feel.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "chhayanat",
+    "name": "Chhayanat",
+    "displayName": "Chhayanat",
+    "aliases": [
+      "Chhayanat"
+    ],
+    "devanagari": "छायानट",
+    "thaat": "Kalyan",
+    "vadi": "Rishabh (R)",
+    "vadiSwar": "R",
+    "samvadi": "Pancham (P)",
+    "samvadiSwar": "P",
+    "prakriti": "Joyful / radiant",
+    "time": "Night (first quarter)",
+    "aaroh": "S R G m P, D P S'",
+    "avroh": "S' N D P, M# P G m R S",
+    "pakad": "P R, R G m P, m P D P, G m R S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "G",
+      "m",
+      "P",
+      "D",
+      "N",
+      "M"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "R",
+      "P",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "P",
+        "R",
+        "R"
+      ],
+      [
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "P",
+        "R",
+        "R",
+        "G"
+      ],
+      [
+        "G",
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "P",
+        "R",
+        "R",
+        "G",
+        "m"
+      ],
+      [
+        "P",
+        "G",
+        "m",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "G",
+      "m",
+      "P",
+      "D",
+      "P",
+      "S",
+      "S",
+      "N",
+      "D",
+      "P",
+      "M",
+      "P",
+      "G",
+      "m"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "G": "5/4",
+      "m": "4/3",
+      "M": "45/32",
+      "P": "3/2",
+      "D": "27/16"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.2,
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.8
+    ],
+    "primaryRasa": "Ananda",
+    "contextLogic": "Radiant; characteristic Pa-to-Re movement.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "jayjaywanti",
+    "name": "Jayjaywanti",
+    "displayName": "Jayjaywanti",
+    "aliases": [
+      "Jayjaywanti"
+    ],
+    "devanagari": "जयजयवंती",
+    "thaat": "Khamaj",
+    "vadi": "Rishabh (R)",
+    "vadiSwar": "R",
+    "samvadi": "Pancham (P)",
+    "samvadiSwar": "P",
+    "prakriti": "Somber / dignified",
+    "time": "Night (second quarter)",
+    "aaroh": "S R g R S, R G m P N S'",
+    "avroh": "S' n D P, m G R S",
+    "pakad": "R g R S, n_low D_low n_low P_low, R",
+    "allowedSwars": [
+      "S",
+      "R",
+      "g",
+      "G",
+      "m",
+      "P",
+      "N",
+      "n",
+      "D"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "M",
+      "d"
+    ],
+    "nyasSwars": [
+      "R",
+      "P",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "R",
+        "g",
+        "R"
+      ],
+      [
+        "n",
+        "P",
+        "R"
+      ],
+      [
+        "R",
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "D",
+        "n",
+        "P",
+        "R"
+      ],
+      [
+        "R",
+        "g",
+        "R",
+        "S",
+        "n"
+      ],
+      [
+        "n",
+        "D",
+        "n",
+        "P",
+        "R"
+      ]
+    ],
+    "recommendedTaals": [
+      "Ektaal",
+      "Teentaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "g",
+      "R",
+      "S",
+      "R",
+      "G",
+      "m",
+      "P",
+      "N",
+      "S",
+      "S",
+      "n",
+      "D",
+      "P",
+      "m"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "g": "32/27",
+      "G": "5/4",
+      "m": "4/3",
+      "P": "3/2",
+      "n": "16/9",
+      "N": "15/8"
+    },
+    "andolan": {
+      "g": {
+        "widthCents": 25,
+        "speedHz": 4.8,
+        "asymmetry": 0.5
+      }
+    },
+    "rasaVector": [
+      0.8,
+      0.5,
+      0.6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "primaryRasa": "Virah/Karuna",
+    "contextLogic": "Dignified longing using both Gandhar and Nishad.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "gaud-sarang",
+    "name": "Gaud_Sarang",
+    "displayName": "Gaud Sarang",
+    "aliases": [
+      "Gaud Sarang"
+    ],
+    "devanagari": "गौड़ सारंग",
+    "thaat": "Kalyan",
+    "vadi": "Gandhar (G)",
+    "vadiSwar": "G",
+    "samvadi": "Dhaivat (D)",
+    "samvadiSwar": "D",
+    "prakriti": "Playful / serene",
+    "time": "Afternoon",
+    "aaroh": "S G R M G P D N S'",
+    "avroh": "S' D N P M G R S",
+    "pakad": "S G R M G, P M G, R S",
+    "allowedSwars": [
+      "S",
+      "G",
+      "R",
+      "M",
+      "P",
+      "D",
+      "N"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "m",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "G",
+      "D",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "G",
+        "R"
+      ],
+      [
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "G",
+        "R",
+        "M"
+      ],
+      [
+        "M",
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "G",
+        "R",
+        "M",
+        "G"
+      ],
+      [
+        "P",
+        "M",
+        "G",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "G",
+      "R",
+      "M",
+      "G",
+      "P",
+      "D",
+      "N",
+      "S",
+      "S",
+      "D",
+      "N",
+      "P",
+      "M",
+      "G",
+      "R"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "G": "5/4",
+      "m": "4/3",
+      "M": "45/32",
+      "D": "27/16"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.9,
+      0.3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.5
+    ],
+    "primaryRasa": "Shanti/Prasannata",
+    "contextLogic": "Peaceful afternoon contentment with vakra chalan.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "shuddha-sarang",
+    "name": "Shuddha_Sarang",
+    "displayName": "Shuddha Sarang",
+    "aliases": [
+      "Shuddha Sarang"
+    ],
+    "devanagari": "शुद्ध सारंग",
+    "thaat": "Kafi",
+    "vadi": "Rishabh (R)",
+    "vadiSwar": "R",
+    "samvadi": "Pancham (P)",
+    "samvadiSwar": "P",
+    "prakriti": "Bright / clear",
+    "time": "Early afternoon",
+    "aaroh": "S R M# P N S'",
+    "avroh": "S' N D P M# P m R S",
+    "pakad": "S R M# P, M# P R, m R S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "M",
+      "P",
+      "N",
+      "D",
+      "m"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "G",
+      "d",
+      "n"
+    ],
+    "nyasSwars": [
+      "R",
+      "P",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "S",
+        "R",
+        "M"
+      ],
+      [
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "M",
+        "P"
+      ],
+      [
+        "R",
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "M",
+        "P",
+        "M"
+      ],
+      [
+        "P",
+        "R",
+        "m",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Jhaptal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "M",
+      "P",
+      "N",
+      "S",
+      "S",
+      "N",
+      "D",
+      "P",
+      "M",
+      "P",
+      "m",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {
+      "R": "9/8",
+      "m": "4/3",
+      "M": "45/32",
+      "P": "3/2",
+      "N": "15/8"
+    },
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2,
+      0.6
+    ],
+    "primaryRasa": "Shanta/Prasannata",
+    "contextLogic": "Bright afternoon clarity with both Madhyams in context.",
+    "generationReady": true,
+    "dataCompleteness": 82,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "durga",
+    "name": "Durga",
+    "displayName": "Durga",
+    "aliases": [
+      "Durga"
+    ],
+    "devanagari": "दुर्गा",
+    "thaat": "Bilawal",
+    "vadi": "Madhyam (m)",
+    "vadiSwar": "m",
+    "samvadi": "Shadaj (S)",
+    "samvadiSwar": "S",
+    "prakriti": "Serene / devotional",
+    "time": "Night (first quarter)",
+    "aaroh": "S R m P D S'",
+    "avroh": "S' D P m R S",
+    "pakad": "m P D, m R, S",
+    "allowedSwars": [
+      "S",
+      "R",
+      "m",
+      "P",
+      "D"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "G",
+      "M",
+      "d",
+      "n",
+      "N"
+    ],
+    "nyasSwars": [
+      "m",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "m",
+        "P",
+        "D"
+      ],
+      [
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "m",
+        "P",
+        "D",
+        "m"
+      ],
+      [
+        "D",
+        "m",
+        "R",
+        "S"
+      ],
+      [
+        "m",
+        "P",
+        "D",
+        "m",
+        "R"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Ektaal"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "m",
+      "P",
+      "D",
+      "S",
+      "S",
+      "D",
+      "P",
+      "m",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {},
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.75,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      0.25,
+      0.8
+    ],
+    "primaryRasa": "Bhakti/Shanta",
+    "contextLogic": "Open pentatonic serenity.",
+    "generationReady": true,
+    "dataCompleteness": 74,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "bhupali",
+    "name": "Bhupali",
+    "displayName": "Bhupali",
+    "aliases": [
+      "Bhupali",
+      "Bhoopali",
+      "Bhup"
+    ],
+    "devanagari": "भूपाली",
+    "thaat": "Kalyan",
+    "vadi": "Gandhar (G)",
+    "vadiSwar": "G",
+    "samvadi": "Dhaivat (D)",
+    "samvadiSwar": "D",
+    "prakriti": "Luminous / devotional",
+    "time": "Evening",
+    "aaroh": "S R G P D S'",
+    "avroh": "S' D P G R S",
+    "pakad": "G R S, D_low S R G, P G",
+    "allowedSwars": [
+      "S",
+      "R",
+      "G",
+      "P",
+      "D"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "g",
+      "m",
+      "M",
+      "d",
+      "n",
+      "N"
+    ],
+    "nyasSwars": [
+      "G",
+      "D",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "G",
+        "R",
+        "S"
+      ],
+      [
+        "G",
+        "P",
+        "G"
+      ],
+      [
+        "G",
+        "R",
+        "S",
+        "D"
+      ],
+      [
+        "R",
+        "G",
+        "P",
+        "G"
+      ],
+      [
+        "G",
+        "R",
+        "S",
+        "D",
+        "S"
+      ],
+      [
+        "S",
+        "R",
+        "G",
+        "P",
+        "G"
+      ]
+    ],
+    "recommendedTaals": [
+      "Teentaal",
+      "Jhaptal",
+      "Keharwa"
+    ],
+    "recommendedForms": [
+      "Khayal",
+      "Bandish"
+    ],
+    "defaultNotation": [
+      "S",
+      "R",
+      "G",
+      "P",
+      "D",
+      "S",
+      "S",
+      "D",
+      "P",
+      "G",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {},
+    "andolan": {},
+    "rasaVector": [
+      0,
+      0.8,
+      0.3,
+      0,
+      0,
+      0,
+      0,
+      0.4,
+      0.9
+    ],
+    "primaryRasa": "Shanta/Bhakti",
+    "contextLogic": "Clear pentatonic radiance.",
+    "generationReady": true,
+    "dataCompleteness": 74,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  },
+  {
+    "id": "pilu",
+    "name": "Pilu",
+    "displayName": "Pilu",
+    "aliases": [
+      "Pilu"
+    ],
+    "devanagari": "पीलू",
+    "thaat": "Kafi",
+    "vadi": "Gandhar (g)",
+    "vadiSwar": "g",
+    "samvadi": "Nishad (n)",
+    "samvadiSwar": "n",
+    "prakriti": "Flexible / romantic",
+    "time": "Flexible",
+    "aaroh": "S g m P n S'",
+    "avroh": "S' n D P m g R S",
+    "pakad": "g m P, n D P, g R S",
+    "allowedSwars": [
+      "S",
+      "g",
+      "m",
+      "P",
+      "n",
+      "D",
+      "R"
+    ],
+    "forbiddenSwars": [
+      "r",
+      "G",
+      "M",
+      "d",
+      "N"
+    ],
+    "nyasSwars": [
+      "g",
+      "n",
+      "S"
+    ],
+    "signaturePhrases": [
+      [
+        "g",
+        "m",
+        "P"
+      ],
+      [
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "g",
+        "m",
+        "P",
+        "n"
+      ],
+      [
+        "P",
+        "g",
+        "R",
+        "S"
+      ],
+      [
+        "g",
+        "m",
+        "P",
+        "n",
+        "D"
+      ],
+      [
+        "D",
+        "P",
+        "g",
+        "R",
+        "S"
+      ]
+    ],
+    "recommendedTaals": [
+      "Dadra",
+      "Keharwa",
+      "Deepchandi"
+    ],
+    "recommendedForms": [
+      "Thumri",
+      "Dadra",
+      "Ghazal"
+    ],
+    "defaultNotation": [
+      "S",
+      "g",
+      "m",
+      "P",
+      "n",
+      "S",
+      "S",
+      "n",
+      "D",
+      "P",
+      "m",
+      "g",
+      "R",
+      "S"
+    ],
+    "tuningSystem": "22-Shruti Just Intonation",
+    "ratios": {},
+    "andolan": {},
+    "rasaVector": [
+      0.4,
+      0.1,
+      0.9,
+      0,
+      0,
+      0,
+      0,
+      0.2,
+      0.3
+    ],
+    "primaryRasa": "Shringar/Karuna",
+    "contextLogic": "Mishra light-classical flexibility; phrase context is essential.",
+    "generationReady": true,
+    "dataCompleteness": 74,
+    "verification": "legacy-master-seed",
+    "reviewStatus": "needs-expert-review",
+    "provenance": [
+      "user-master-v3",
+      "maqam-v8-normalisation"
+    ]
+  }
+]

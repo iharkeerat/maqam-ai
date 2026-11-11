@@ -1,0 +1,2 @@
+export const metadata = { title: "Track A Research Results | MAQAM AI", description: "Audited Stage A3 benchmark visualization with explicit formal-task limitations" };
+export default function TrackA() { return <main style={{margin:0,padding:0,height:"100vh",background:"#0b1720"}}><iframe title="MAQAM Track A formal research results" src="/track-a/results.html" style={{width:"100%",height:"100%",border:0}} /></main>; }

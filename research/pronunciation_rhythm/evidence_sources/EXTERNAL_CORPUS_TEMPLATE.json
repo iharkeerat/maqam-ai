@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "id": "REPLACE_ID",
+      "language": "hi",
+      "orthography": "REPLACE_WITH_DEVANAGARI",
+      "source": {
+        "source_id": "REPLACE_SOURCE_ID",
+        "source_uri": "https://example.org/source",
+        "kind": "published_dictionary",
+        "authorization": "unknown",
+        "verification": "none",
+        "evidence_file": "evidence.pdf",
+        "sha256": "REPLACE_WITH_EVIDENCE_SHA256",
+        "locator": "page/entry/index for exact word"
+      },
+      "pronunciations": [
+        {"key":"p1", "ipa":"REPLACE_IPA", "syllables":["REPLACE_IPA"], "locator":"same word entry and syllabification evidence"}
+      ]
+    }
+  ]
+}

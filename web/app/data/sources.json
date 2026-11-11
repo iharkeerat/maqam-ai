@@ -1,0 +1,43 @@
+[
+  {
+    "id": "user-master-v3",
+    "title": "MAQAM-AI Master v3 knowledge file",
+    "note": "User-curated 100-Raag neuro-symbolic JSON used as the legacy seed and supported by the runtime importer."
+  },
+  {
+    "id": "nios-thaats",
+    "title": "NIOS Hindustani Music Theory",
+    "note": "Official teaching source for the ten generally accepted Bhatkhande thaats.",
+    "url": "https://www.nios.ac.in/media/documents/Hindustani_Music_242/Hindustani_Music_ThBook1_Eng.pdf"
+  },
+  {
+    "id": "nios-notation",
+    "title": "NIOS Notation System of Hindustani Music",
+    "note": "Teaching reference for svaralipi and notation conventions.",
+    "url": "https://nios.ac.in/media/documents/Hindustani_Music_242/hindustanimusictheorybook1/HMB1Ch5.pdf"
+  },
+  {
+    "id": "abgmvm-curriculum",
+    "title": "Akhil Bharatiya Gandharva Mahavidyalaya curriculum and books",
+    "note": "Curricular reference for widely taught Raags and Taals.",
+    "url": "https://abgmvm.org/books/"
+  },
+  {
+    "id": "sangita-ratnakara-taladhyaya",
+    "title": "Sangita Ratnakara, Vol. III, Adhyaya 5–6",
+    "note": "Primary historical source target for the 120 Deshi Taal transcription project.",
+    "url": "https://archive.org/details/sangitaratnakaravol3adhyaya56subrahmanyashastris.adyarlibrary"
+  },
+  {
+    "id": "spmvv-120-deshi-taals",
+    "title": "Sri Padmavati Mahila Visvavidyalayam, M.A. Music: History of Indian Music I",
+    "note": "Secondary academic teaching source stating that Śārṅgadeva lists 120 Deśī Tālas and giving a sample of names. Used only for candidate-name attestation; primary-edition transcription remains required.",
+    "url": "https://spmvv.ac.in/ddefiles/slm/M.AMusic_I_Semester_MAMUD01_1_HistoryofIndianMusic-I.pdf"
+  },
+  {
+    "id": "gemini-structured-output",
+    "title": "Google Gemini API structured output documentation",
+    "note": "Implementation reference for server-side schema-constrained semantic extraction. The model is not permitted to certify Raag grammar.",
+    "url": "https://ai.google.dev/gemini-api/docs/structured-output"
+  }
+]

@@ -1,0 +1,19 @@
+id,claim,decision,related_prior_work,internal_evidence,reason
+FIRST_LYRICS_RAAG,First poetry/lyrics emotion-to-Raag recommendation,BLOCK_PRIOR_ART,mandlik2023,,A 2023 survey/proposal explicitly describes the workflow.
+FIRST_SOUTH_ASIAN_LLM_BENCHMARK,First assessment of top LLMs for South Asian music,BLOCK_PRIOR_ART,kader2026,,A June 2026 preprint evaluated 33 models on South Asian music tasks; distinct questions do not restore broad first claim.
+SHORTCUT_INVENTION,Discovered shortcut learning as a new phenomenon,BLOCK_PRIOR_ART,geirhos2020;mccoy2019,,Shortcut learning and heuristic exploitation are established.
+FIRST_COUNTERFACTUAL_TEST,Invented counterfactual robustness testing,BLOCK_PRIOR_ART,ribeiro2020;gardner2020;wang2021,,"Established behavioural, contrast, and counterfactual testing."
+FIRST_EXPLAINABLE_RAGA,First explainable AI for Raag,BLOCK_PRIOR_ART,singh2024,,Explainable audio-based Raag identification already published as a preprint; narrower task claim unverified.
+FIRST_INDIC_NLP,First multilingual Indic text model/benchmark,BLOCK_PRIOR_ART,kakwani2020;doddapaneni2023,,Indic NLP models and multilingual benchmarks are established.
+FIRST_UNIFIED_SYSTEM,World-first system combining all listed features,BLOCK_NOT_ESTABLISHED,mandlik2023;kader2026;singh2024,,An exhaustive novelty assertion cannot be supported by this targeted search.
+NEW_EXPLANATION_METHOD,New faithful-explanation algorithm,BLOCK_NOT_ESTABLISHED,jacovi2020;lyu2024,,Existing coded traces lack mechanism-level faithfulness comparison.
+NOVEL_SHORTCUT_MITIGATION,New shortcut mitigation algorithm,BLOCK_PRIOR_ART,wang2021,,"Balanced metadata is an instance of known counterfactual controls, not shown to be new."
+BETTER_THAN_CHATGPT,Superior to GPT/Gemini/Suno or commercial music models,BLOCK_NO_COMPARISON,kader2026,,No hosted-LLM outputs or matched task comparison in repository.
+MUSICAL_CORRECTNESS,Musically correct Raag recommendation on authentic poetry,BLOCK_NO_EXTERNAL_VALIDATION,singh2024,,No independent human ratings or genuine Raag labels.
+MULTILINGUAL_SEMANTIC_TRANSFER,Proven robust semantic understanding across scripts,BLOCK_NO_VALIDATION,doddapaneni2023,,Synthetic script-mode outputs are not parallel-translation pairs.
+CONFIRMATORY_FINDING,New untouched holdout confirms shortcut behavior,BLOCK_REUSED_HOLDOUT,balloccu2024,,The same small synthetic test split was reused across upgrades.
+PATENTABLE_NOVELTY,"Patentable, unprecedented methodology",BLOCK_NOT_ESTABLISHED,geirhos2020;ribeiro2020,,"No patent/novelty legal search, technical comparison, or new-method demonstration."
+REPRO_CASE,Reproducible computational engineering case study,SUPPORT_AS_ENGINEERING,geirhos2020;ribeiro2020,reports/research/benchmark_v5/experiment_summary_v5.json;portfolio/SURF_2027/RESEARCH_REPORT.md,"Existing scripts and synthetic results support a transparent case study, not fundamental methodological novelty."
+METADATA_SHORTCUT,Time-token intervention changes metadata-driven model predictions in synthetic setting,SUPPORT_SYNTHETIC_ONLY,geirhos2020;wang2021,reports/research/benchmark_v4/frozen_prediction_comparisons_v4.csv,Descriptive effect under known generator confounding; not a novel phenomenon nor independent real-world result.
+COMPARABLE_BASELINES,Locally reproducible baseline comparison with eight methods,SUPPORT_SYNTHETIC_ONLY,ribeiro2020,reports/research/benchmark_v5/experiment_summary_v5.json,"Internal exploratory comparison against eight local methods, not state-of-the-art hosted LLM evaluation."
+POTENTIAL_EVAL_GAP,Proposed cross-script music-rule-plus-text robustness research question,OPEN_HYPOTHESIS,kader2026;doddapaneni2023;mandlik2023,,Combination may merit study; cannot assert absence of prior work or generalizable novelty.
