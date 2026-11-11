@@ -1,0 +1,76 @@
+name: Import MAQAM portfolio
+
+on:
+  push:
+    paths:
+      - 'MAQAM_GITHUB_READY_2026-11-11.zip'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack-curated-project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Verify pinned archive and safely extract
+        env:
+          EXPECTED_SHA256: '48e6e4522b884466f645bcd7def47625ee088e90af7aecd57e3abb1d03910f46'
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import os
+          from pathlib import Path, PurePosixPath
+          from zipfile import ZipFile
+
+          archive = Path('MAQAM_GITHUB_READY_2026-11-11.zip')
+          if not archive.is_file():
+              raise SystemExit('Import file not found. Upload it in the repository root.')
+          checksum = hashlib.sha256(archive.read_bytes()).hexdigest()
+          if checksum != os.environ['EXPECTED_SHA256']:
+              raise SystemExit('ZIP checksum mismatch. Do not upload a modified or unrelated archive.')
+          with ZipFile(archive) as bundle:
+              if bundle.testzip() is not None:
+                  raise SystemExit('ZIP integrity test failed.')
+              entries = []
+              for info in bundle.infolist():
+                  parts = PurePosixPath(info.filename).parts
+                  if len(parts) < 2 or parts[0] != 'maqam-ai' or '..' in parts or info.filename.startswith('/'):
+                      raise SystemExit(f'Unexpected archive path: {info.filename}')
+                  rel = Path(*parts[1:])
+                  if rel.parts[0] == '.git':
+                      raise SystemExit('Refusing archive entry inside Git metadata.')
+                  mode = (info.external_attr >> 16) & 0o170000
+                  if mode == 0o120000:
+                      raise SystemExit('Refusing symlink in archive.')
+                  if info.is_dir():
+                      continue
+                  if info.file_size > 2_000_000:
+                      raise SystemExit('Unexpected oversized entry.')
+                  entries.append((info, rel))
+              if len(entries) != 147:
+                  raise SystemExit(f'Expected exactly 147 curated source files, found {len(entries)}.')
+              if sum(i.file_size for i, _ in entries) > 5_000_000:
+                  raise SystemExit('Archive exceeds expected uncompressed size.')
+              for info, rel in entries:
+                  output = Path.cwd() / rel
+                  output.parent.mkdir(parents=True, exist_ok=True)
+                  output.write_bytes(bundle.read(info))
+          print(f'Imported {len(entries)} authenticated MAQAM portfolio files.')
+          PY
+
+      - name: Commit imported source and remove staging ZIP
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -f MAQAM_GITHUB_READY_2026-11-11.zip
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish curated MAQAM AI computational-musicology portfolio"
+            git push
+          fi
